@@ -181,7 +181,7 @@ def generate_plugins_for_quad(quad_id, params):
     mtl_single_brdf = renderer.classes.MtlSingleBRDF("HYPERSIM_MTL_SINGLE_BRDF_" + quad_id)
     mtl_single_brdf.brdf         = brdf_vray_mtl
     mtl_single_brdf.double_sided = 1
-    mtl_single_brdf.scene_name   = vray.List()
+    mtl_single_brdf.scene_name   = list()
     plugins.append(mtl_single_brdf)
 
     quad_corner_obj_00_vray = matrix( [ 0,                   0,                   0 ] ).T
@@ -191,20 +191,20 @@ def generate_plugins_for_quad(quad_id, params):
 
     # GeomStaticMesh
     geom_static_mesh = renderer.classes.GeomStaticMesh("HYPERSIM_GEOM_STATIC_MESH_" + quad_id)
-    geom_static_mesh.vertices         = vray.List( [ vray.Vector( quad_corner_obj_00_vray[0], quad_corner_obj_00_vray[1], quad_corner_obj_00_vray[2] ),
+    geom_static_mesh.vertices         = list( [ vray.Vector( quad_corner_obj_00_vray[0], quad_corner_obj_00_vray[1], quad_corner_obj_00_vray[2] ),
                                                      vray.Vector( quad_corner_obj_01_vray[0], quad_corner_obj_01_vray[1], quad_corner_obj_01_vray[2] ),
                                                      vray.Vector( quad_corner_obj_10_vray[0], quad_corner_obj_10_vray[1], quad_corner_obj_10_vray[2] ),
                                                      vray.Vector( quad_corner_obj_11_vray[0], quad_corner_obj_11_vray[1], quad_corner_obj_11_vray[2] ) ] )
-    geom_static_mesh.faces            = vray.List( [2,0,3,1,3,0] )
-    geom_static_mesh.normals          = vray.List( [ vray.Vector(0, 0, 1),
+    geom_static_mesh.faces            = list( [2,0,3,1,3,0] )
+    geom_static_mesh.normals          = list( [ vray.Vector(0, 0, 1),
                                                      vray.Vector(0, 0, 1),
                                                      vray.Vector(0, 0, 1),
                                                      vray.Vector(0, 0, 1) ] )
-    geom_static_mesh.faceNormals      = vray.List( [2,0,3,1,3,0] )
-    geom_static_mesh.map_channels     = vray.List( [ vray.List( [ 1,
-                                                                  vray.List( [ vray.Vector(0, 0, 0), vray.Vector(1, 0, 0), vray.Vector(0, 0, 0), vray.Vector(1, 0, 0), vray.Vector(0, 0, 0), vray.Vector(1, 0, 0), vray.Vector(0, 1, 0), vray.Vector(1, 1, 0) ] ),
-                                                                  vray.List( [6,4,7,5,7,4] ) ] ) ] )
-    geom_static_mesh.edge_visibility  = vray.List( [45] )
+    geom_static_mesh.faceNormals      = list( [2,0,3,1,3,0] )
+    geom_static_mesh.map_channels     = list( [ list( [ 1,
+                                                                  list( [ vray.Vector(0, 0, 0), vray.Vector(1, 0, 0), vray.Vector(0, 0, 0), vray.Vector(1, 0, 0), vray.Vector(0, 0, 0), vray.Vector(1, 0, 0), vray.Vector(0, 1, 0), vray.Vector(1, 1, 0) ] ),
+                                                                  list( [6,4,7,5,7,4] ) ] ) ] )
+    geom_static_mesh.edge_visibility  = list( [45] )
     geom_static_mesh.smooth_derivs    = 0
     geom_static_mesh.dynamic_geometry = 0
     plugins.append(geom_static_mesh)
@@ -223,7 +223,7 @@ def generate_plugins_for_quad(quad_id, params):
     node.nsamples           = 1
     node.visible            = 1
     node.primary_visibility = 1
-    node.scene_name         = vray.List()
+    node.scene_name         = list()
     plugins.append(node)
 
     plugins.reverse()

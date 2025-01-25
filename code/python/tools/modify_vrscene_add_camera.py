@@ -128,7 +128,7 @@ if use_camera_trajectory_dir:
     settings_output.anim_end                 = camera_keyframe_frame_indices[-1]*camera_frame_time_seconds
     settings_output.frame_start              = 0
     settings_output.frames_per_second        = 1.0 / camera_frame_time_seconds
-    settings_output.frames                   = vray.List(range(camera_keyframe_frame_indices[-1] + 1)) # create a list from 0 to the last value in camera_keyframe_frame_indices (inclusive)
+    settings_output.frames                   = list(range(camera_keyframe_frame_indices[-1] + 1)) # create a list from 0 to the last value in camera_keyframe_frame_indices (inclusive)
 
     settings_camera = renderer.classes.SettingsCamera.getInstanceOrCreate()
     render_view     = renderer.classes.RenderView.getInstanceOrCreate()

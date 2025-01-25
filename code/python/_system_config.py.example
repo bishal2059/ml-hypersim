@@ -1,8 +1,8 @@
 # required by the Hypersim Low-Level Toolkit
-vray_bin       = "/Applications/ChaosGroup/V-Ray/Standalone_for_mavericks_x64/bin/vray"
-imapviewer_bin = "/Applications/ChaosGroup/V-Ray/Standalone_for_mavericks_x64/bin/imapviewer.bin"
-vdenoise_bin   = "/Applications/ChaosGroup/V-Ray/Standalone_for_mavericks_x64/bin/vdenoise.bin"
-vrimg2exr_bin  = "/Applications/ChaosGroup/V-Ray/Standalone_for_mavericks_x64/bin/vrimg2exr.bin"
+vray_bin       = "/usr/Chaos/V-Ray/Standalone_for_rhel8/bin/vray"
+imapviewer_bin = "/usr/Chaos/V-Ray/Standalone_for_rhel8/bin/imapviewer.bin"
+vdenoise_bin   = "/usr/Chaos/V-Ray/Standalone_for_rhel8/bin/vdenoise.bin"
+vrimg2exr_bin  = "/usr/Chaos/V-Ray/Standalone_for_rhel8/bin/vrimg2exr.bin"
 
 # required by the Hypersim High-Level Toolkit
 python_bin = "python"
@@ -14,8 +14,8 @@ python_bin = "python"
 #     shared asset files (if any of these directories appears in a vrscene file after
 #     being exported, it will be replaced with a portable directory during normalization,
 #     i.e., a directory that is a child of the top-level dataset_dir
-decompress_bin                             = ""
-asset_file_ext                             = ""
+decompress_bin                             = "7z"
+asset_file_ext                             = "max"
 asset_sceneassets_photometric_replace_dirs = []
 
 # required by the Hypersim High-Level Toolkit to submit rendering jobs for cloud rendering
@@ -26,5 +26,5 @@ cloud_post_task_script     = ""
 cloud_asset_key_prefix_str = ""
 
 # required by the Hypersim High-Level Toolkit to generate animations
-animation_bin   = ""
-animation_codec = ""
+animation_bin   = "ffmpeg"
+animation_codec = "libx264"

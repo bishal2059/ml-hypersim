@@ -120,7 +120,8 @@ cmd = _system_config.vray_bin + \
     ' -sceneFile="' + scene_file   + '"' + \
     ' '             + img_file_str + \
     ' -frames='     + frames       + \
-    ' '             + parameter_override_str
+    ' '             + parameter_override_str +\
+    ' '             + '-rtEngine=5'
 
 print("")
 print(cmd)

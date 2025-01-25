@@ -112,14 +112,14 @@ def get_strings_for_plugin(plugin):
                         tmp_path_prefixes.append(path_prefix + "." + param_name)
                         tmp_nodes_to_visit_added_by.append(node_key)
 
-                if isinstance(param, vray.List) and param_meta["type"] == "List<String>":
+                if isinstance(param, list) and param_meta["type"] == "List<String>":
                     for i in range(len(param)):
                         pi_ = param[i]
                         tmp_nodes_to_visit.append(pi_)
                         tmp_path_prefixes.append(path_prefix + "." + param_name + "[" + str(i) + "]")
                         tmp_nodes_to_visit_added_by.append(node_key)
 
-                if isinstance(param, vray.List) and param_meta["type"] == "List<Plugin>":
+                if isinstance(param, list) and param_meta["type"] == "List<Plugin>":
                     for i in range(len(param)):
                         pi_       = param[i]
                         param_key = str(pi_)
