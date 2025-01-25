@@ -26,3 +26,7 @@ examples/01_marketplace_dataset/scenes/ai_001_001/_asset
 examples/01_marketplace_dataset/scenes/ai_001_001/_asset_export
 examples/01_marketplace_dataset/scenes/ai_001_001/_detail/mesh
 examples/01_marketplace_dataset/scenes/ai_001_001/images/scene_cam_00*
+examples/01_marketplace_dataset/scenes/ai_001_001/_tmp
+examples/01_marketplace_dataset/scenes/ai_001_001/_detail/octomap
+examples/01_marketplace_dataset/scenes/ai_001_001/_detail/scene_shared
+examples/01_marketplace_dataset/scenes/ai_001_001/vrscenes
