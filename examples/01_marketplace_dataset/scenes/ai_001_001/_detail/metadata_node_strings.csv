@@ -1,0 +1,2327 @@
+node_id,path,string
+1,<root>,Rectangle001@node_3
+1,<root>.bake_subdiv_filepath,
+1,<root>.geometry,Mesh_1082077658375160016
+1,<root>.material,a1___Defaultz@mtl__1
+1,<root>.material.brdf,a1___Defaultz@mtl_brdf__2
+1,<root>.material.brdf.lpe_label,01 - Defaultz
+1,<root>.material.scene_name[0],01 - Defaultz
+1,<root>.scene_name[0],Rectangle001
+1,<root>.scene_name[1],scene/Rectangle001
+1,<root>.scene_name[2],layer/0
+1,<root>.user_attributes,
+2,<root>,Rectangle002@node_4
+2,<root>.bake_subdiv_filepath,
+2,<root>.geometry,Mesh_11911761168915494605
+2,<root>.material,a1___Defaultz@mtl__1
+2,<root>.material.brdf,a1___Defaultz@mtl_brdf__2
+2,<root>.material.brdf.lpe_label,01 - Defaultz
+2,<root>.material.scene_name[0],01 - Defaultz
+2,<root>.scene_name[0],Rectangle002
+2,<root>.scene_name[1],scene/Rectangle002
+2,<root>.scene_name[2],layer/0
+2,<root>.user_attributes,
+3,<root>,对象001@node_5
+3,<root>.bake_subdiv_filepath,
+3,<root>.geometry,Mesh_14698211532792495139
+3,<root>.material,水泥砖@mtl__5
+3,<root>.material.brdf,水泥砖@mtl_brdf__6
+3,<root>.material.brdf.bump_map,贴图__231454565@tex_3
+3,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_2_gsRGB
+3,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/3d66Mat-831736-maps-1.jpg
+3,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+3,<root>.material.brdf.bump_map.uvwgen,贴图__231454565@tex_3_uvwgen
+3,<root>.material.brdf.diffuse,水泥砖@mtl_brdf__6_diffuse_combine
+3,<root>.material.brdf.diffuse.texture,贴图__1@tex_0
+3,<root>.material.brdf.diffuse.texture.texture_map,贴图__231454564@tex_1
+3,<root>.material.brdf.diffuse.texture.texture_map.bitmap,bitmapBuffer_0_gsRGB
+3,<root>.material.brdf.diffuse.texture.texture_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/3d66Mat-831736-maps-2.jpg
+3,<root>.material.brdf.diffuse.texture.texture_map.bitmap.rgb_color_space,raw
+3,<root>.material.brdf.diffuse.texture.texture_map.uvwgen,贴图__231454564@tex_1_uvwgen
+3,<root>.material.brdf.lpe_label,水泥砖
+3,<root>.material.brdf.reflect,水泥砖@mtl_brdf__6_reflect_combine
+3,<root>.material.brdf.reflect.texture,贴图__231455@tex_2
+3,<root>.material.brdf.reflect.texture.bitmap,bitmapBuffer_1_gsRGB
+3,<root>.material.brdf.reflect.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/3d66Mat-831736-maps-3.png
+3,<root>.material.brdf.reflect.texture.bitmap.rgb_color_space,raw
+3,<root>.material.brdf.reflect.texture.uvwgen,贴图__231455@tex_2_uvwgen
+3,<root>.material.brdf.reflect_glossiness,水泥砖@mtl_brdf__6_refl_gloss_combine
+3,<root>.material.brdf.reflect_glossiness.texture,贴图__231455@tex_mono_0_mono
+3,<root>.material.scene_name[0],水泥砖
+3,<root>.scene_name[0],对象001
+3,<root>.scene_name[1],scene/对象001
+3,<root>.scene_name[2],layer/0
+3,<root>.user_attributes,
+4,<root>,对象002@node_6
+4,<root>.bake_subdiv_filepath,
+4,<root>.geometry,Mesh_8324995006228257214
+4,<root>.material,a2___Defaultz@mtl__8
+4,<root>.material.brdf,a2___Defaultz@mtl_brdf__9
+4,<root>.material.brdf.lpe_label,02 - Defaultz
+4,<root>.material.scene_name[0],02 - Defaultz
+4,<root>.scene_name[0],对象002
+4,<root>.scene_name[1],scene/对象002
+4,<root>.scene_name[2],layer/0
+4,<root>.user_attributes,
+5,<root>,Rectangle059@node_376
+5,<root>.bake_subdiv_filepath,
+5,<root>.geometry,Mesh_5475776799648947797
+5,<root>.material,a1___Defaultz@mtl__1
+5,<root>.material.brdf,a1___Defaultz@mtl_brdf__2
+5,<root>.material.brdf.lpe_label,01 - Defaultz
+5,<root>.material.scene_name[0],01 - Defaultz
+5,<root>.scene_name[0],Rectangle059
+5,<root>.scene_name[1],scene/Rectangle059
+5,<root>.scene_name[2],layer/0
+5,<root>.user_attributes,
+6,<root>,Obj3d66_733890_2_374@node_380
+6,<root>.bake_subdiv_filepath,
+6,<root>.geometry,Mesh_1341224822053896603
+6,<root>.material,Mat3d66_733890_2_7184@mtl__12
+6,<root>.material.brdf,Mat3d66_733890_2_7184@mtl_brdf__13
+6,<root>.material.brdf.bump_map,贴图__9@tex_8
+6,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+6,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+6,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+6,<root>.material.brdf.bump_map.uvwgen,贴图__9@tex_8_uvwgen
+6,<root>.material.brdf.diffuse,Mat3d66_733890_2_7184@mtl_brdf__13_diffuse_combine
+6,<root>.material.brdf.diffuse.texture,贴图__6@tex_4
+6,<root>.material.brdf.diffuse.texture.blend_input,贴图__6@tex_4_mix_curve
+6,<root>.material.brdf.diffuse.texture.color1,贴图__6@tex_4_color1_map1_combine
+6,<root>.material.brdf.diffuse.texture.color1.texture,贴图__7@tex_5
+6,<root>.material.brdf.diffuse.texture.color2,贴图__6@tex_4_color2_map2_combine
+6,<root>.material.brdf.diffuse.texture.color2.texture,贴图__8@tex_7
+6,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_4_gsRGB
+6,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/17.jpg
+6,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+6,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__8@tex_7_uvwgen
+6,<root>.material.brdf.lpe_label,Mat3d66-733890-2-7184
+6,<root>.material.scene_name[0],Mat3d66-733890-2-7184
+6,<root>.scene_name[0],Obj3d66-733890-2-374
+6,<root>.scene_name[1],scene/Group-733890-2-435/Obj3d66-733890-2-374
+6,<root>.scene_name[2],layer/0
+6,<root>.user_attributes,3d66Models: www.3d66.com-ID:733890;
+7,<root>,Group_733890_2_435@node_379
+7,<root>.bake_subdiv_filepath,
+7,<root>.scene_name[0],Group-733890-2-435
+7,<root>.scene_name[1],scene/Group-733890-2-435
+7,<root>.scene_name[2],layer/0
+7,<root>.user_attributes,
+8,<root>,Rectangle061@node_395
+8,<root>.bake_subdiv_filepath,
+8,<root>.geometry,Mesh_16331438421337964461
+8,<root>.material,Rectangle061@node_395_stats
+8,<root>.material.base_mtl,b0___Default@mtl__15
+8,<root>.material.base_mtl.brdf,b0___Default@mtl_brdf__16
+8,<root>.material.base_mtl.brdf.color,贴图__5@tex_9_layered
+8,<root>.material.base_mtl.brdf.color.texture,贴图__5@tex_9
+8,<root>.material.base_mtl.brdf.color.texture.bitmap,bitmapBuffer_6_gsRGB
+8,<root>.material.base_mtl.brdf.color.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/999869.jpg
+8,<root>.material.base_mtl.brdf.color.texture.bitmap.rgb_color_space,raw
+8,<root>.material.base_mtl.brdf.color.texture.uvwgen,贴图__5@tex_9_uvwgen
+8,<root>.material.base_mtl.scene_name[0],10 - Default
+8,<root>.scene_name[0],Rectangle061
+8,<root>.scene_name[1],scene/Rectangle061
+8,<root>.scene_name[2],layer/0
+8,<root>.user_attributes,
+9,<root>,Rectangle035@node_576
+9,<root>.bake_subdiv_filepath,
+9,<root>.geometry,Mesh_2130080816240843896
+9,<root>.material,a7___Default@mtl__18
+9,<root>.material.brdf,a7___Default@mtl_brdf__19
+9,<root>.material.brdf.diffuse,a7___Default@mtl_brdf__19_diffuse_combine
+9,<root>.material.brdf.diffuse.texture,贴图__5@tex_10
+9,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_7_gsRGB
+9,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/人物插画贴图ID_933146156.jpg
+9,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+9,<root>.material.brdf.diffuse.texture.uvwgen,贴图__5@tex_10_uvwgen
+9,<root>.material.brdf.lpe_label,07 - Default
+9,<root>.material.scene_name[0],07 - Default
+9,<root>.scene_name[0],Rectangle035
+9,<root>.scene_name[1],scene/三人桌/Rectangle035
+9,<root>.scene_name[2],layer/0
+9,<root>.user_attributes,
+10,<root>,三人桌@node_575
+10,<root>.bake_subdiv_filepath,
+10,<root>.scene_name[0],三人桌
+10,<root>.scene_name[1],scene/三人桌
+10,<root>.scene_name[2],layer/0
+10,<root>.user_attributes,
+11,<root>,Box010@node_577
+11,<root>.bake_subdiv_filepath,
+11,<root>.geometry,Mesh_15942702748153795796
+11,<root>.material,a7___Default@mtl__18
+11,<root>.material.brdf,a7___Default@mtl_brdf__19
+11,<root>.material.brdf.diffuse,a7___Default@mtl_brdf__19_diffuse_combine
+11,<root>.material.brdf.diffuse.texture,贴图__5@tex_10
+11,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_7_gsRGB
+11,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/人物插画贴图ID_933146156.jpg
+11,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+11,<root>.material.brdf.diffuse.texture.uvwgen,贴图__5@tex_10_uvwgen
+11,<root>.material.brdf.lpe_label,07 - Default
+11,<root>.material.scene_name[0],07 - Default
+11,<root>.scene_name[0],Box010
+11,<root>.scene_name[1],scene/三人桌/Box010
+11,<root>.scene_name[2],layer/0
+11,<root>.user_attributes,
+12,<root>,Rectangle036@node_578
+12,<root>.bake_subdiv_filepath,
+12,<root>.geometry,Mesh_2130080816240843896
+12,<root>.material,a7___Defaultdzdddf@mtl__21
+12,<root>.material.brdf,a7___Defaultdzdddf@mtl_brdf__22
+12,<root>.material.brdf.diffuse,a7___Defaultdzdddf@mtl_brdf__22_diffuse_combine
+12,<root>.material.brdf.diffuse.texture,贴图__5@tex_11
+12,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_8_gsRGB
+12,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/stock-photo-166571675.jpg
+12,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+12,<root>.material.brdf.diffuse.texture.uvwgen,贴图__5@tex_11_uvwgen
+12,<root>.material.brdf.lpe_label,07 - Defaultdzdddf
+12,<root>.material.scene_name[0],07 - Defaultdzdddf
+12,<root>.scene_name[0],Rectangle036
+12,<root>.scene_name[1],scene/三人桌/Rectangle036
+12,<root>.scene_name[2],layer/0
+12,<root>.user_attributes,
+13,<root>,Box011@node_579
+13,<root>.bake_subdiv_filepath,
+13,<root>.geometry,Mesh_15942702748153795796
+13,<root>.material,a7___Defaultdzdddf@mtl__21
+13,<root>.material.brdf,a7___Defaultdzdddf@mtl_brdf__22
+13,<root>.material.brdf.diffuse,a7___Defaultdzdddf@mtl_brdf__22_diffuse_combine
+13,<root>.material.brdf.diffuse.texture,贴图__5@tex_11
+13,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_8_gsRGB
+13,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/stock-photo-166571675.jpg
+13,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+13,<root>.material.brdf.diffuse.texture.uvwgen,贴图__5@tex_11_uvwgen
+13,<root>.material.brdf.lpe_label,07 - Defaultdzdddf
+13,<root>.material.scene_name[0],07 - Defaultdzdddf
+13,<root>.scene_name[0],Box011
+13,<root>.scene_name[1],scene/三人桌/Box011
+13,<root>.scene_name[2],layer/0
+13,<root>.user_attributes,
+14,<root>,Rectangle037@node_580
+14,<root>.bake_subdiv_filepath,
+14,<root>.geometry,Mesh_2130080816240843896
+14,<root>.material,a7___Defaultdzddd@mtl__23
+14,<root>.material.brdf,a7___Defaultdzddd@mtl_brdf__24
+14,<root>.material.brdf.diffuse,a7___Defaultdzddd@mtl_brdf__24_diffuse_combine
+14,<root>.material.brdf.diffuse.texture,贴图__5@tex_12
+14,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_9_gsRGB
+14,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/20170922083946_CQ4EM.jpeg
+14,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+14,<root>.material.brdf.diffuse.texture.uvwgen,贴图__5@tex_12_uvwgen
+14,<root>.material.brdf.lpe_label,07 - Defaultdzddd
+14,<root>.material.scene_name[0],07 - Defaultdzddd
+14,<root>.scene_name[0],Rectangle037
+14,<root>.scene_name[1],scene/三人桌/Rectangle037
+14,<root>.scene_name[2],layer/0
+14,<root>.user_attributes,
+15,<root>,Box012@node_581
+15,<root>.bake_subdiv_filepath,
+15,<root>.geometry,Mesh_15942702748153795796
+15,<root>.material,a7___Defaultdzddd@mtl__23
+15,<root>.material.brdf,a7___Defaultdzddd@mtl_brdf__24
+15,<root>.material.brdf.diffuse,a7___Defaultdzddd@mtl_brdf__24_diffuse_combine
+15,<root>.material.brdf.diffuse.texture,贴图__5@tex_12
+15,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_9_gsRGB
+15,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/20170922083946_CQ4EM.jpeg
+15,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+15,<root>.material.brdf.diffuse.texture.uvwgen,贴图__5@tex_12_uvwgen
+15,<root>.material.brdf.lpe_label,07 - Defaultdzddd
+15,<root>.material.scene_name[0],07 - Defaultdzddd
+15,<root>.scene_name[0],Box012
+15,<root>.scene_name[1],scene/三人桌/Box012
+15,<root>.scene_name[2],layer/0
+15,<root>.user_attributes,
+16,<root>,Line002@node_583
+16,<root>.bake_subdiv_filepath,
+16,<root>.geometry,Mesh_8069789315394890747
+16,<root>.material,a1___Default@mtl__26
+16,<root>.material.brdf,a1___Default@mtl_brdf__27
+16,<root>.material.brdf.lpe_label,01 - Default
+16,<root>.material.scene_name[0],01 - Default
+16,<root>.scene_name[0],Line002
+16,<root>.scene_name[1],scene/三人桌/组001/Line002
+16,<root>.scene_name[2],layer/0
+16,<root>.user_attributes,
+17,<root>,组001@node_582
+17,<root>.bake_subdiv_filepath,
+17,<root>.scene_name[0],组001
+17,<root>.scene_name[1],scene/三人桌/组001
+17,<root>.scene_name[2],layer/0
+17,<root>.user_attributes,
+18,<root>,Circle002@node_584
+18,<root>.bake_subdiv_filepath,
+18,<root>.geometry,Mesh_2984604966146738406
+18,<root>.material,Material__90@mtl__29
+18,<root>.material.brdf,Material__90@mtl_brdf__30
+18,<root>.material.brdf.lpe_label,Material #90
+18,<root>.material.scene_name[0],Material #90
+18,<root>.scene_name[0],Circle002
+18,<root>.scene_name[1],scene/三人桌/组001/Circle002
+18,<root>.scene_name[2],layer/0
+18,<root>.user_attributes,
+19,<root>,Box001@node_585
+19,<root>.bake_subdiv_filepath,
+19,<root>.geometry,Mesh_18347481127991866678
+19,<root>.material,a9___Default@mtl__32
+19,<root>.material.brdf,a9___Default@mtl_brdf__33
+19,<root>.material.brdf.bump_map,贴图__10@tex_17
+19,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+19,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+19,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+19,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+19,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+19,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+19,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+19,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+19,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+19,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+19,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+19,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+19,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+19,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+19,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+19,<root>.material.brdf.lpe_label,09 - Default
+19,<root>.material.scene_name[0],09 - Default
+19,<root>.scene_name[0],Box001
+19,<root>.scene_name[1],scene/三人桌/组001/Box001
+19,<root>.scene_name[2],layer/0
+19,<root>.user_attributes,
+20,<root>,Sphere001@node_586
+20,<root>.bake_subdiv_filepath,
+20,<root>.geometry,Mesh_17088079426900871836
+20,<root>.material,a9___Default@mtl__32
+20,<root>.material.brdf,a9___Default@mtl_brdf__33
+20,<root>.material.brdf.bump_map,贴图__10@tex_17
+20,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+20,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+20,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+20,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+20,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+20,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+20,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+20,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+20,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+20,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+20,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+20,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+20,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+20,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+20,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+20,<root>.material.brdf.lpe_label,09 - Default
+20,<root>.material.scene_name[0],09 - Default
+20,<root>.scene_name[0],Sphere001
+20,<root>.scene_name[1],scene/三人桌/组001/Sphere001
+20,<root>.scene_name[2],layer/0
+20,<root>.user_attributes,
+21,<root>,Circle015@node_588
+21,<root>.bake_subdiv_filepath,
+21,<root>.geometry,Mesh_2984604966146738406
+21,<root>.material,Material__90@mtl__29
+21,<root>.material.brdf,Material__90@mtl_brdf__30
+21,<root>.material.brdf.lpe_label,Material #90
+21,<root>.material.scene_name[0],Material #90
+21,<root>.scene_name[0],Circle015
+21,<root>.scene_name[1],scene/三人桌/组014/Circle015
+21,<root>.scene_name[2],layer/0
+21,<root>.user_attributes,
+22,<root>,组014@node_587
+22,<root>.bake_subdiv_filepath,
+22,<root>.scene_name[0],组014
+22,<root>.scene_name[1],scene/三人桌/组014
+22,<root>.scene_name[2],layer/0
+22,<root>.user_attributes,
+23,<root>,Sphere012@node_589
+23,<root>.bake_subdiv_filepath,
+23,<root>.geometry,Mesh_17088079426900871836
+23,<root>.material,a9___Default@mtl__32
+23,<root>.material.brdf,a9___Default@mtl_brdf__33
+23,<root>.material.brdf.bump_map,贴图__10@tex_17
+23,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+23,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+23,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+23,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+23,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+23,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+23,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+23,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+23,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+23,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+23,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+23,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+23,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+23,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+23,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+23,<root>.material.brdf.lpe_label,09 - Default
+23,<root>.material.scene_name[0],09 - Default
+23,<root>.scene_name[0],Sphere012
+23,<root>.scene_name[1],scene/三人桌/组014/Sphere012
+23,<root>.scene_name[2],layer/0
+23,<root>.user_attributes,
+24,<root>,Line038@node_590
+24,<root>.bake_subdiv_filepath,
+24,<root>.geometry,Mesh_8069789315394890747
+24,<root>.material,a1___Default@mtl__26
+24,<root>.material.brdf,a1___Default@mtl_brdf__27
+24,<root>.material.brdf.lpe_label,01 - Default
+24,<root>.material.scene_name[0],01 - Default
+24,<root>.scene_name[0],Line038
+24,<root>.scene_name[1],scene/三人桌/组014/Line038
+24,<root>.scene_name[2],layer/0
+24,<root>.user_attributes,
+25,<root>,Box003@node_591
+25,<root>.bake_subdiv_filepath,
+25,<root>.geometry,Mesh_18347481127991866678
+25,<root>.material,a9___Default@mtl__32
+25,<root>.material.brdf,a9___Default@mtl_brdf__33
+25,<root>.material.brdf.bump_map,贴图__10@tex_17
+25,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+25,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+25,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+25,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+25,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+25,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+25,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+25,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+25,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+25,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+25,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+25,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+25,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+25,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+25,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+25,<root>.material.brdf.lpe_label,09 - Default
+25,<root>.material.scene_name[0],09 - Default
+25,<root>.scene_name[0],Box003
+25,<root>.scene_name[1],scene/三人桌/组014/Box003
+25,<root>.scene_name[2],layer/0
+25,<root>.user_attributes,
+26,<root>,Circle016@node_593
+26,<root>.bake_subdiv_filepath,
+26,<root>.geometry,Mesh_2984604966146738406
+26,<root>.material,Material__90@mtl__29
+26,<root>.material.brdf,Material__90@mtl_brdf__30
+26,<root>.material.brdf.lpe_label,Material #90
+26,<root>.material.scene_name[0],Material #90
+26,<root>.scene_name[0],Circle016
+26,<root>.scene_name[1],scene/三人桌/组016/Circle016
+26,<root>.scene_name[2],layer/0
+26,<root>.user_attributes,
+27,<root>,组016@node_592
+27,<root>.bake_subdiv_filepath,
+27,<root>.scene_name[0],组016
+27,<root>.scene_name[1],scene/三人桌/组016
+27,<root>.scene_name[2],layer/0
+27,<root>.user_attributes,
+28,<root>,Sphere013@node_594
+28,<root>.bake_subdiv_filepath,
+28,<root>.geometry,Mesh_17088079426900871836
+28,<root>.material,a9___Default@mtl__32
+28,<root>.material.brdf,a9___Default@mtl_brdf__33
+28,<root>.material.brdf.bump_map,贴图__10@tex_17
+28,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+28,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+28,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+28,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+28,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+28,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+28,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+28,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+28,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+28,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+28,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+28,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+28,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+28,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+28,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+28,<root>.material.brdf.lpe_label,09 - Default
+28,<root>.material.scene_name[0],09 - Default
+28,<root>.scene_name[0],Sphere013
+28,<root>.scene_name[1],scene/三人桌/组016/Sphere013
+28,<root>.scene_name[2],layer/0
+28,<root>.user_attributes,
+29,<root>,Line039@node_595
+29,<root>.bake_subdiv_filepath,
+29,<root>.geometry,Mesh_8069789315394890747
+29,<root>.material,a1___Default@mtl__26
+29,<root>.material.brdf,a1___Default@mtl_brdf__27
+29,<root>.material.brdf.lpe_label,01 - Default
+29,<root>.material.scene_name[0],01 - Default
+29,<root>.scene_name[0],Line039
+29,<root>.scene_name[1],scene/三人桌/组016/Line039
+29,<root>.scene_name[2],layer/0
+29,<root>.user_attributes,
+30,<root>,Box004@node_596
+30,<root>.bake_subdiv_filepath,
+30,<root>.geometry,Mesh_18347481127991866678
+30,<root>.material,a9___Default@mtl__32
+30,<root>.material.brdf,a9___Default@mtl_brdf__33
+30,<root>.material.brdf.bump_map,贴图__10@tex_17
+30,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+30,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+30,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+30,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+30,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+30,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+30,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+30,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+30,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+30,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+30,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+30,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+30,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+30,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+30,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+30,<root>.material.brdf.lpe_label,09 - Default
+30,<root>.material.scene_name[0],09 - Default
+30,<root>.scene_name[0],Box004
+30,<root>.scene_name[1],scene/三人桌/组016/Box004
+30,<root>.scene_name[2],layer/0
+30,<root>.user_attributes,
+31,<root>,Line040@node_598
+31,<root>.bake_subdiv_filepath,
+31,<root>.geometry,Mesh_8069789315394890747
+31,<root>.material,a1___Default@mtl__26
+31,<root>.material.brdf,a1___Default@mtl_brdf__27
+31,<root>.material.brdf.lpe_label,01 - Default
+31,<root>.material.scene_name[0],01 - Default
+31,<root>.scene_name[0],Line040
+31,<root>.scene_name[1],scene/三人桌/组018/Line040
+31,<root>.scene_name[2],layer/0
+31,<root>.user_attributes,
+32,<root>,组018@node_597
+32,<root>.bake_subdiv_filepath,
+32,<root>.scene_name[0],组018
+32,<root>.scene_name[1],scene/三人桌/组018
+32,<root>.scene_name[2],layer/0
+32,<root>.user_attributes,
+33,<root>,Circle017@node_599
+33,<root>.bake_subdiv_filepath,
+33,<root>.geometry,Mesh_2984604966146738406
+33,<root>.material,Material__90@mtl__29
+33,<root>.material.brdf,Material__90@mtl_brdf__30
+33,<root>.material.brdf.lpe_label,Material #90
+33,<root>.material.scene_name[0],Material #90
+33,<root>.scene_name[0],Circle017
+33,<root>.scene_name[1],scene/三人桌/组018/Circle017
+33,<root>.scene_name[2],layer/0
+33,<root>.user_attributes,
+34,<root>,Box005@node_600
+34,<root>.bake_subdiv_filepath,
+34,<root>.geometry,Mesh_18347481127991866678
+34,<root>.material,a9___Default@mtl__32
+34,<root>.material.brdf,a9___Default@mtl_brdf__33
+34,<root>.material.brdf.bump_map,贴图__10@tex_17
+34,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+34,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+34,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+34,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+34,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+34,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+34,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+34,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+34,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+34,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+34,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+34,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+34,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+34,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+34,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+34,<root>.material.brdf.lpe_label,09 - Default
+34,<root>.material.scene_name[0],09 - Default
+34,<root>.scene_name[0],Box005
+34,<root>.scene_name[1],scene/三人桌/组018/Box005
+34,<root>.scene_name[2],layer/0
+34,<root>.user_attributes,
+35,<root>,Sphere014@node_601
+35,<root>.bake_subdiv_filepath,
+35,<root>.geometry,Mesh_17088079426900871836
+35,<root>.material,a9___Default@mtl__32
+35,<root>.material.brdf,a9___Default@mtl_brdf__33
+35,<root>.material.brdf.bump_map,贴图__10@tex_17
+35,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+35,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+35,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+35,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+35,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+35,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+35,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+35,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+35,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+35,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+35,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+35,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+35,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+35,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+35,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+35,<root>.material.brdf.lpe_label,09 - Default
+35,<root>.material.scene_name[0],09 - Default
+35,<root>.scene_name[0],Sphere014
+35,<root>.scene_name[1],scene/三人桌/组018/Sphere014
+35,<root>.scene_name[2],layer/0
+35,<root>.user_attributes,
+36,<root>,Circle018@node_603
+36,<root>.bake_subdiv_filepath,
+36,<root>.geometry,Mesh_2984604966146738406
+36,<root>.material,Material__90@mtl__29
+36,<root>.material.brdf,Material__90@mtl_brdf__30
+36,<root>.material.brdf.lpe_label,Material #90
+36,<root>.material.scene_name[0],Material #90
+36,<root>.scene_name[0],Circle018
+36,<root>.scene_name[1],scene/三人桌/组020/Circle018
+36,<root>.scene_name[2],layer/0
+36,<root>.user_attributes,
+37,<root>,组020@node_602
+37,<root>.bake_subdiv_filepath,
+37,<root>.scene_name[0],组020
+37,<root>.scene_name[1],scene/三人桌/组020
+37,<root>.scene_name[2],layer/0
+37,<root>.user_attributes,
+38,<root>,Sphere015@node_604
+38,<root>.bake_subdiv_filepath,
+38,<root>.geometry,Mesh_17088079426900871836
+38,<root>.material,a9___Default@mtl__32
+38,<root>.material.brdf,a9___Default@mtl_brdf__33
+38,<root>.material.brdf.bump_map,贴图__10@tex_17
+38,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+38,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+38,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+38,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+38,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+38,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+38,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+38,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+38,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+38,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+38,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+38,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+38,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+38,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+38,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+38,<root>.material.brdf.lpe_label,09 - Default
+38,<root>.material.scene_name[0],09 - Default
+38,<root>.scene_name[0],Sphere015
+38,<root>.scene_name[1],scene/三人桌/组020/Sphere015
+38,<root>.scene_name[2],layer/0
+38,<root>.user_attributes,
+39,<root>,Line041@node_605
+39,<root>.bake_subdiv_filepath,
+39,<root>.geometry,Mesh_8069789315394890747
+39,<root>.material,a1___Default@mtl__26
+39,<root>.material.brdf,a1___Default@mtl_brdf__27
+39,<root>.material.brdf.lpe_label,01 - Default
+39,<root>.material.scene_name[0],01 - Default
+39,<root>.scene_name[0],Line041
+39,<root>.scene_name[1],scene/三人桌/组020/Line041
+39,<root>.scene_name[2],layer/0
+39,<root>.user_attributes,
+40,<root>,Box006@node_606
+40,<root>.bake_subdiv_filepath,
+40,<root>.geometry,Mesh_18347481127991866678
+40,<root>.material,a9___Default@mtl__32
+40,<root>.material.brdf,a9___Default@mtl_brdf__33
+40,<root>.material.brdf.bump_map,贴图__10@tex_17
+40,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+40,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+40,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+40,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+40,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+40,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+40,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+40,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+40,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+40,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+40,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+40,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+40,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+40,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+40,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+40,<root>.material.brdf.lpe_label,09 - Default
+40,<root>.material.scene_name[0],09 - Default
+40,<root>.scene_name[0],Box006
+40,<root>.scene_name[1],scene/三人桌/组020/Box006
+40,<root>.scene_name[2],layer/0
+40,<root>.user_attributes,
+41,<root>,Circle019@node_608
+41,<root>.bake_subdiv_filepath,
+41,<root>.geometry,Mesh_2984604966146738406
+41,<root>.material,Material__90@mtl__29
+41,<root>.material.brdf,Material__90@mtl_brdf__30
+41,<root>.material.brdf.lpe_label,Material #90
+41,<root>.material.scene_name[0],Material #90
+41,<root>.scene_name[0],Circle019
+41,<root>.scene_name[1],scene/三人桌/组022/Circle019
+41,<root>.scene_name[2],layer/0
+41,<root>.user_attributes,
+42,<root>,组022@node_607
+42,<root>.bake_subdiv_filepath,
+42,<root>.scene_name[0],组022
+42,<root>.scene_name[1],scene/三人桌/组022
+42,<root>.scene_name[2],layer/0
+42,<root>.user_attributes,
+43,<root>,Sphere016@node_609
+43,<root>.bake_subdiv_filepath,
+43,<root>.geometry,Mesh_17088079426900871836
+43,<root>.material,a9___Default@mtl__32
+43,<root>.material.brdf,a9___Default@mtl_brdf__33
+43,<root>.material.brdf.bump_map,贴图__10@tex_17
+43,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+43,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+43,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+43,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+43,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+43,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+43,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+43,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+43,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+43,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+43,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+43,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+43,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+43,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+43,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+43,<root>.material.brdf.lpe_label,09 - Default
+43,<root>.material.scene_name[0],09 - Default
+43,<root>.scene_name[0],Sphere016
+43,<root>.scene_name[1],scene/三人桌/组022/Sphere016
+43,<root>.scene_name[2],layer/0
+43,<root>.user_attributes,
+44,<root>,Line042@node_610
+44,<root>.bake_subdiv_filepath,
+44,<root>.geometry,Mesh_8069789315394890747
+44,<root>.material,a1___Default@mtl__26
+44,<root>.material.brdf,a1___Default@mtl_brdf__27
+44,<root>.material.brdf.lpe_label,01 - Default
+44,<root>.material.scene_name[0],01 - Default
+44,<root>.scene_name[0],Line042
+44,<root>.scene_name[1],scene/三人桌/组022/Line042
+44,<root>.scene_name[2],layer/0
+44,<root>.user_attributes,
+45,<root>,Box007@node_611
+45,<root>.bake_subdiv_filepath,
+45,<root>.geometry,Mesh_18347481127991866678
+45,<root>.material,a9___Default@mtl__32
+45,<root>.material.brdf,a9___Default@mtl_brdf__33
+45,<root>.material.brdf.bump_map,贴图__10@tex_17
+45,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_5_gsRGB
+45,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/965772.jpg
+45,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+45,<root>.material.brdf.bump_map.uvwgen,贴图__10@tex_17_uvwgen
+45,<root>.material.brdf.diffuse,a9___Default@mtl_brdf__33_diffuse_combine
+45,<root>.material.brdf.diffuse.texture,贴图__7@tex_13
+45,<root>.material.brdf.diffuse.texture.blend_input,贴图__7@tex_13_mix_curve
+45,<root>.material.brdf.diffuse.texture.color1,贴图__7@tex_13_color1_map1_combine
+45,<root>.material.brdf.diffuse.texture.color1.texture,贴图__8@tex_14
+45,<root>.material.brdf.diffuse.texture.color2,贴图__7@tex_13_color2_map2_combine
+45,<root>.material.brdf.diffuse.texture.color2.texture,贴图__9@tex_16
+45,<root>.material.brdf.diffuse.texture.color2.texture.bitmap,bitmapBuffer_11_gsRGB
+45,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/04（3）.jpg
+45,<root>.material.brdf.diffuse.texture.color2.texture.bitmap.rgb_color_space,raw
+45,<root>.material.brdf.diffuse.texture.color2.texture.uvwgen,贴图__9@tex_16_uvwgen
+45,<root>.material.brdf.lpe_label,09 - Default
+45,<root>.material.scene_name[0],09 - Default
+45,<root>.scene_name[0],Box007
+45,<root>.scene_name[1],scene/三人桌/组022/Box007
+45,<root>.scene_name[2],layer/0
+45,<root>.user_attributes,
+46,<root>,Plane053@node_613
+46,<root>.bake_subdiv_filepath,
+46,<root>.geometry,Mesh_15508665816278545519
+46,<root>.material,a6___Defaultzrd@mtl__36
+46,<root>.material.brdf,a6___Defaultzrd@mtl_brdf__37
+46,<root>.material.brdf.lpe_label,06 - Defaultzrd
+46,<root>.material.scene_name[0],06 - Defaultzrd
+46,<root>.scene_name[0],Plane053
+46,<root>.scene_name[1],scene/三人桌/组029/Plane053
+46,<root>.scene_name[2],layer/0
+46,<root>.user_attributes,
+47,<root>,组029@node_612
+47,<root>.bake_subdiv_filepath,
+47,<root>.scene_name[0],组029
+47,<root>.scene_name[1],scene/三人桌/组029
+47,<root>.scene_name[2],layer/0
+47,<root>.user_attributes,
+48,<root>,Circle032@node_614
+48,<root>.bake_subdiv_filepath,
+48,<root>.geometry,Mesh_12534451765972458282
+48,<root>.material,a1___Default@mtl__26
+48,<root>.material.brdf,a1___Default@mtl_brdf__27
+48,<root>.material.brdf.lpe_label,01 - Default
+48,<root>.material.scene_name[0],01 - Default
+48,<root>.scene_name[0],Circle032
+48,<root>.scene_name[1],scene/三人桌/组029/Circle032
+48,<root>.scene_name[2],layer/0
+48,<root>.user_attributes,
+49,<root>,Plane054@node_615
+49,<root>.bake_subdiv_filepath,
+49,<root>.geometry,Mesh_15508665816278545519
+49,<root>.material,a6___Defaultzrdzzzsssz@mtl__39
+49,<root>.material.brdf,a6___Defaultzrdzzzsssz@mtl_brdf__40
+49,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsssz
+49,<root>.material.scene_name[0],06 - Defaultzrdzzzsssz
+49,<root>.scene_name[0],Plane054
+49,<root>.scene_name[1],scene/三人桌/组029/Plane054
+49,<root>.scene_name[2],layer/0
+49,<root>.user_attributes,
+50,<root>,Plane055@node_616
+50,<root>.bake_subdiv_filepath,
+50,<root>.geometry,Mesh_15508665816278545519
+50,<root>.material,a6___Defaultzrdzzzss@mtl__41
+50,<root>.material.brdf,a6___Defaultzrdzzzss@mtl_brdf__42
+50,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzss
+50,<root>.material.scene_name[0],06 - Defaultzrdzzzss
+50,<root>.scene_name[0],Plane055
+50,<root>.scene_name[1],scene/三人桌/组029/Plane055
+50,<root>.scene_name[2],layer/0
+50,<root>.user_attributes,
+51,<root>,Rectangle052@node_617
+51,<root>.bake_subdiv_filepath,
+51,<root>.geometry,Mesh_7141693633101955935
+51,<root>.material,a3___Default@mtl__44
+51,<root>.material.brdf,a3___Default@mtl_brdf__45
+51,<root>.material.brdf.lpe_label,03 - Default
+51,<root>.material.scene_name[0],03 - Default
+51,<root>.scene_name[0],Rectangle052
+51,<root>.scene_name[1],scene/三人桌/组029/Rectangle052
+51,<root>.scene_name[2],layer/0
+51,<root>.user_attributes,
+52,<root>,Circle033@node_618
+52,<root>.bake_subdiv_filepath,
+52,<root>.geometry,Mesh_12534451765972458282
+52,<root>.material,a1___Default@mtl__26
+52,<root>.material.brdf,a1___Default@mtl_brdf__27
+52,<root>.material.brdf.lpe_label,01 - Default
+52,<root>.material.scene_name[0],01 - Default
+52,<root>.scene_name[0],Circle033
+52,<root>.scene_name[1],scene/三人桌/组029/Circle033
+52,<root>.scene_name[2],layer/0
+52,<root>.user_attributes,
+53,<root>,Circle034@node_619
+53,<root>.bake_subdiv_filepath,
+53,<root>.geometry,Mesh_12534451765972458282
+53,<root>.material,a1___Default@mtl__26
+53,<root>.material.brdf,a1___Default@mtl_brdf__27
+53,<root>.material.brdf.lpe_label,01 - Default
+53,<root>.material.scene_name[0],01 - Default
+53,<root>.scene_name[0],Circle034
+53,<root>.scene_name[1],scene/三人桌/组029/Circle034
+53,<root>.scene_name[2],layer/0
+53,<root>.user_attributes,
+54,<root>,Rectangle053@node_620
+54,<root>.bake_subdiv_filepath,
+54,<root>.geometry,Mesh_7141693633101955935
+54,<root>.material,a3___Default@mtl__44
+54,<root>.material.brdf,a3___Default@mtl_brdf__45
+54,<root>.material.brdf.lpe_label,03 - Default
+54,<root>.material.scene_name[0],03 - Default
+54,<root>.scene_name[0],Rectangle053
+54,<root>.scene_name[1],scene/三人桌/组029/Rectangle053
+54,<root>.scene_name[2],layer/0
+54,<root>.user_attributes,
+55,<root>,Circle035@node_621
+55,<root>.bake_subdiv_filepath,
+55,<root>.geometry,Mesh_12534451765972458282
+55,<root>.material,a1___Default@mtl__26
+55,<root>.material.brdf,a1___Default@mtl_brdf__27
+55,<root>.material.brdf.lpe_label,01 - Default
+55,<root>.material.scene_name[0],01 - Default
+55,<root>.scene_name[0],Circle035
+55,<root>.scene_name[1],scene/三人桌/组029/Circle035
+55,<root>.scene_name[2],layer/0
+55,<root>.user_attributes,
+56,<root>,Rectangle054@node_622
+56,<root>.bake_subdiv_filepath,
+56,<root>.geometry,Mesh_7141693633101955935
+56,<root>.material,a3___Default@mtl__44
+56,<root>.material.brdf,a3___Default@mtl_brdf__45
+56,<root>.material.brdf.lpe_label,03 - Default
+56,<root>.material.scene_name[0],03 - Default
+56,<root>.scene_name[0],Rectangle054
+56,<root>.scene_name[1],scene/三人桌/组029/Rectangle054
+56,<root>.scene_name[2],layer/0
+56,<root>.user_attributes,
+57,<root>,Circle036@node_623
+57,<root>.bake_subdiv_filepath,
+57,<root>.geometry,Mesh_12534451765972458282
+57,<root>.material,a1___Default@mtl__26
+57,<root>.material.brdf,a1___Default@mtl_brdf__27
+57,<root>.material.brdf.lpe_label,01 - Default
+57,<root>.material.scene_name[0],01 - Default
+57,<root>.scene_name[0],Circle036
+57,<root>.scene_name[1],scene/三人桌/组029/Circle036
+57,<root>.scene_name[2],layer/0
+57,<root>.user_attributes,
+58,<root>,Rectangle055@node_624
+58,<root>.bake_subdiv_filepath,
+58,<root>.geometry,Mesh_7141693633101955935
+58,<root>.material,a3___Default@mtl__44
+58,<root>.material.brdf,a3___Default@mtl_brdf__45
+58,<root>.material.brdf.lpe_label,03 - Default
+58,<root>.material.scene_name[0],03 - Default
+58,<root>.scene_name[0],Rectangle055
+58,<root>.scene_name[1],scene/三人桌/组029/Rectangle055
+58,<root>.scene_name[2],layer/0
+58,<root>.user_attributes,
+59,<root>,Circle037@node_625
+59,<root>.bake_subdiv_filepath,
+59,<root>.geometry,Mesh_12534451765972458282
+59,<root>.material,a1___Default@mtl__26
+59,<root>.material.brdf,a1___Default@mtl_brdf__27
+59,<root>.material.brdf.lpe_label,01 - Default
+59,<root>.material.scene_name[0],01 - Default
+59,<root>.scene_name[0],Circle037
+59,<root>.scene_name[1],scene/三人桌/组029/Circle037
+59,<root>.scene_name[2],layer/0
+59,<root>.user_attributes,
+60,<root>,Rectangle056@node_626
+60,<root>.bake_subdiv_filepath,
+60,<root>.geometry,Mesh_7141693633101955935
+60,<root>.material,a3___Default@mtl__44
+60,<root>.material.brdf,a3___Default@mtl_brdf__45
+60,<root>.material.brdf.lpe_label,03 - Default
+60,<root>.material.scene_name[0],03 - Default
+60,<root>.scene_name[0],Rectangle056
+60,<root>.scene_name[1],scene/三人桌/组029/Rectangle056
+60,<root>.scene_name[2],layer/0
+60,<root>.user_attributes,
+61,<root>,Plane056@node_627
+61,<root>.bake_subdiv_filepath,
+61,<root>.geometry,Mesh_15508665816278545519
+61,<root>.material,a6___Defaultzrdzzzsss@mtl__46
+61,<root>.material.brdf,a6___Defaultzrdzzzsss@mtl_brdf__47
+61,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsss
+61,<root>.material.scene_name[0],06 - Defaultzrdzzzsss
+61,<root>.scene_name[0],Plane056
+61,<root>.scene_name[1],scene/三人桌/组029/Plane056
+61,<root>.scene_name[2],layer/0
+61,<root>.user_attributes,
+62,<root>,Rectangle057@node_628
+62,<root>.bake_subdiv_filepath,
+62,<root>.geometry,Mesh_7141693633101955935
+62,<root>.material,a3___Default@mtl__44
+62,<root>.material.brdf,a3___Default@mtl_brdf__45
+62,<root>.material.brdf.lpe_label,03 - Default
+62,<root>.material.scene_name[0],03 - Default
+62,<root>.scene_name[0],Rectangle057
+62,<root>.scene_name[1],scene/三人桌/组029/Rectangle057
+62,<root>.scene_name[2],layer/0
+62,<root>.user_attributes,
+63,<root>,Plane057@node_629
+63,<root>.bake_subdiv_filepath,
+63,<root>.geometry,Mesh_15508665816278545519
+63,<root>.material,a6___Defaultz@mtl__48
+63,<root>.material.brdf,a6___Defaultz@mtl_brdf__49
+63,<root>.material.brdf.lpe_label,06 - Defaultz
+63,<root>.material.scene_name[0],06 - Defaultz
+63,<root>.scene_name[0],Plane057
+63,<root>.scene_name[1],scene/三人桌/组029/Plane057
+63,<root>.scene_name[2],layer/0
+63,<root>.user_attributes,
+64,<root>,Plane058@node_630
+64,<root>.bake_subdiv_filepath,
+64,<root>.geometry,Mesh_15508665816278545519
+64,<root>.material,a6___Default@mtl__50
+64,<root>.material.brdf,a6___Default@mtl_brdf__51
+64,<root>.material.brdf.lpe_label,06 - Default
+64,<root>.material.scene_name[0],06 - Default
+64,<root>.scene_name[0],Plane058
+64,<root>.scene_name[1],scene/三人桌/组029/Plane058
+64,<root>.scene_name[2],layer/0
+64,<root>.user_attributes,
+65,<root>,Plane059@node_631
+65,<root>.bake_subdiv_filepath,
+65,<root>.geometry,Mesh_15508665816278545519
+65,<root>.material,a6___Defaultzr@mtl__52
+65,<root>.material.brdf,a6___Defaultzr@mtl_brdf__53
+65,<root>.material.brdf.lpe_label,06 - Defaultzr
+65,<root>.material.scene_name[0],06 - Defaultzr
+65,<root>.scene_name[0],Plane059
+65,<root>.scene_name[1],scene/三人桌/组029/Plane059
+65,<root>.scene_name[2],layer/0
+65,<root>.user_attributes,
+66,<root>,Plane060@node_632
+66,<root>.bake_subdiv_filepath,
+66,<root>.geometry,Mesh_15508665816278545519
+66,<root>.material,a6___Defaultzrdzzz@mtl__54
+66,<root>.material.brdf,a6___Defaultzrdzzz@mtl_brdf__55
+66,<root>.material.brdf.lpe_label,06 - Defaultzrdzzz
+66,<root>.material.scene_name[0],06 - Defaultzrdzzz
+66,<root>.scene_name[0],Plane060
+66,<root>.scene_name[1],scene/三人桌/组029/Plane060
+66,<root>.scene_name[2],layer/0
+66,<root>.user_attributes,
+67,<root>,Plane061@node_633
+67,<root>.bake_subdiv_filepath,
+67,<root>.geometry,Mesh_15508665816278545519
+67,<root>.material,a6___Defaultzrdzzzs@mtl__56
+67,<root>.material.brdf,a6___Defaultzrdzzzs@mtl_brdf__57
+67,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzs
+67,<root>.material.scene_name[0],06 - Defaultzrdzzzs
+67,<root>.scene_name[0],Plane061
+67,<root>.scene_name[1],scene/三人桌/组029/Plane061
+67,<root>.scene_name[2],layer/0
+67,<root>.user_attributes,
+68,<root>,Plane062@node_634
+68,<root>.bake_subdiv_filepath,
+68,<root>.geometry,Mesh_15508665816278545519
+68,<root>.material,a6___Defaultzrdz@mtl__58
+68,<root>.material.brdf,a6___Defaultzrdz@mtl_brdf__59
+68,<root>.material.brdf.lpe_label,06 - Defaultzrdz
+68,<root>.material.scene_name[0],06 - Defaultzrdz
+68,<root>.scene_name[0],Plane062
+68,<root>.scene_name[1],scene/三人桌/组029/Plane062
+68,<root>.scene_name[2],layer/0
+68,<root>.user_attributes,
+69,<root>,Plane063@node_635
+69,<root>.bake_subdiv_filepath,
+69,<root>.geometry,Mesh_15508665816278545519
+69,<root>.material,a6___Defaultzrdzz@mtl__60
+69,<root>.material.brdf,a6___Defaultzrdzz@mtl_brdf__61
+69,<root>.material.brdf.lpe_label,06 - Defaultzrdzz
+69,<root>.material.scene_name[0],06 - Defaultzrdzz
+69,<root>.scene_name[0],Plane063
+69,<root>.scene_name[1],scene/三人桌/组029/Plane063
+69,<root>.scene_name[2],layer/0
+69,<root>.user_attributes,
+70,<root>,Plane064@node_636
+70,<root>.bake_subdiv_filepath,
+70,<root>.geometry,Mesh_15508665816278545519
+70,<root>.material,a6___Defaultzrdzzdzsssz@mtl__62
+70,<root>.material.brdf,a6___Defaultzrdzzdzsssz@mtl_brdf__63
+70,<root>.material.brdf.lpe_label,06 - Defaultzrdzzdzsssz
+70,<root>.material.scene_name[0],06 - Defaultzrdzzdzsssz
+70,<root>.scene_name[0],Plane064
+70,<root>.scene_name[1],scene/三人桌/组029/Plane064
+70,<root>.scene_name[2],layer/0
+70,<root>.user_attributes,
+71,<root>,对象005@node_637
+71,<root>.bake_subdiv_filepath,
+71,<root>.geometry,Mesh_8888972271749884921
+71,<root>.material,a4___Defaultz@mtl__65
+71,<root>.material.brdf,a4___Defaultz@mtl_brdf__66
+71,<root>.material.brdf.bump_map,贴图__3@tex_19
+71,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_13_gsRGB
+71,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/1000432.jpg
+71,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+71,<root>.material.brdf.bump_map.uvwgen,贴图__3@tex_19_uvwgen
+71,<root>.material.brdf.diffuse,a4___Defaultz@mtl_brdf__66_diffuse_combine
+71,<root>.material.brdf.diffuse.texture,贴图__2@tex_18
+71,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_12_gsRGB
+71,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/950116.jpg
+71,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+71,<root>.material.brdf.diffuse.texture.uvwgen,贴图__2@tex_18_uvwgen
+71,<root>.material.brdf.lpe_label,04 - Defaultz
+71,<root>.material.scene_name[0],04 - Defaultz
+71,<root>.scene_name[0],对象005
+71,<root>.scene_name[1],scene/三人桌/组029/对象005
+71,<root>.scene_name[2],layer/0
+71,<root>.user_attributes,
+72,<root>,Rectangle058@node_638
+72,<root>.bake_subdiv_filepath,
+72,<root>.geometry,Mesh_13842163146023653227
+72,<root>.material,a1___Default@mtl__26
+72,<root>.material.brdf,a1___Default@mtl_brdf__27
+72,<root>.material.brdf.lpe_label,01 - Default
+72,<root>.material.scene_name[0],01 - Default
+72,<root>.scene_name[0],Rectangle058
+72,<root>.scene_name[1],scene/三人桌/组029/Rectangle058
+72,<root>.scene_name[2],layer/0
+72,<root>.user_attributes,
+73,<root>,Line048@node_639
+73,<root>.bake_subdiv_filepath,
+73,<root>.geometry,Mesh_9225329268065532080
+73,<root>.material,a1___Default@mtl__26
+73,<root>.material.brdf,a1___Default@mtl_brdf__27
+73,<root>.material.brdf.lpe_label,01 - Default
+73,<root>.material.scene_name[0],01 - Default
+73,<root>.scene_name[0],Line048
+73,<root>.scene_name[1],scene/三人桌/组029/Line048
+73,<root>.scene_name[2],layer/0
+73,<root>.user_attributes,
+74,<root>,Circle038@node_641
+74,<root>.bake_subdiv_filepath,
+74,<root>.geometry,Mesh_12534451765972458282
+74,<root>.material,a1___Default@mtl__26
+74,<root>.material.brdf,a1___Default@mtl_brdf__27
+74,<root>.material.brdf.lpe_label,01 - Default
+74,<root>.material.scene_name[0],01 - Default
+74,<root>.scene_name[0],Circle038
+74,<root>.scene_name[1],scene/三人桌/组030/Circle038
+74,<root>.scene_name[2],layer/0
+74,<root>.user_attributes,
+75,<root>,组030@node_640
+75,<root>.bake_subdiv_filepath,
+75,<root>.scene_name[0],组030
+75,<root>.scene_name[1],scene/三人桌/组030
+75,<root>.scene_name[2],layer/0
+75,<root>.user_attributes,
+76,<root>,Plane065@node_642
+76,<root>.bake_subdiv_filepath,
+76,<root>.geometry,Mesh_15508665816278545519
+76,<root>.material,a6___Defaultzrdzzzsssz@mtl__39
+76,<root>.material.brdf,a6___Defaultzrdzzzsssz@mtl_brdf__40
+76,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsssz
+76,<root>.material.scene_name[0],06 - Defaultzrdzzzsssz
+76,<root>.scene_name[0],Plane065
+76,<root>.scene_name[1],scene/三人桌/组030/Plane065
+76,<root>.scene_name[2],layer/0
+76,<root>.user_attributes,
+77,<root>,Circle039@node_643
+77,<root>.bake_subdiv_filepath,
+77,<root>.geometry,Mesh_12534451765972458282
+77,<root>.material,a1___Default@mtl__26
+77,<root>.material.brdf,a1___Default@mtl_brdf__27
+77,<root>.material.brdf.lpe_label,01 - Default
+77,<root>.material.scene_name[0],01 - Default
+77,<root>.scene_name[0],Circle039
+77,<root>.scene_name[1],scene/三人桌/组030/Circle039
+77,<root>.scene_name[2],layer/0
+77,<root>.user_attributes,
+78,<root>,Plane066@node_644
+78,<root>.bake_subdiv_filepath,
+78,<root>.geometry,Mesh_15508665816278545519
+78,<root>.material,a6___Defaultzrdzzzs@mtl__56
+78,<root>.material.brdf,a6___Defaultzrdzzzs@mtl_brdf__57
+78,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzs
+78,<root>.material.scene_name[0],06 - Defaultzrdzzzs
+78,<root>.scene_name[0],Plane066
+78,<root>.scene_name[1],scene/三人桌/组030/Plane066
+78,<root>.scene_name[2],layer/0
+78,<root>.user_attributes,
+79,<root>,Plane067@node_645
+79,<root>.bake_subdiv_filepath,
+79,<root>.geometry,Mesh_15508665816278545519
+79,<root>.material,a6___Defaultzrdzzzsss@mtl__46
+79,<root>.material.brdf,a6___Defaultzrdzzzsss@mtl_brdf__47
+79,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsss
+79,<root>.material.scene_name[0],06 - Defaultzrdzzzsss
+79,<root>.scene_name[0],Plane067
+79,<root>.scene_name[1],scene/三人桌/组030/Plane067
+79,<root>.scene_name[2],layer/0
+79,<root>.user_attributes,
+80,<root>,Rectangle059@node_646
+80,<root>.bake_subdiv_filepath,
+80,<root>.geometry,Mesh_7141693633101955935
+80,<root>.material,a3___Default@mtl__44
+80,<root>.material.brdf,a3___Default@mtl_brdf__45
+80,<root>.material.brdf.lpe_label,03 - Default
+80,<root>.material.scene_name[0],03 - Default
+80,<root>.scene_name[0],Rectangle059
+80,<root>.scene_name[1],scene/三人桌/组030/Rectangle059
+80,<root>.scene_name[2],layer/0
+80,<root>.user_attributes,
+81,<root>,Circle040@node_647
+81,<root>.bake_subdiv_filepath,
+81,<root>.geometry,Mesh_12534451765972458282
+81,<root>.material,a1___Default@mtl__26
+81,<root>.material.brdf,a1___Default@mtl_brdf__27
+81,<root>.material.brdf.lpe_label,01 - Default
+81,<root>.material.scene_name[0],01 - Default
+81,<root>.scene_name[0],Circle040
+81,<root>.scene_name[1],scene/三人桌/组030/Circle040
+81,<root>.scene_name[2],layer/0
+81,<root>.user_attributes,
+82,<root>,Rectangle060@node_648
+82,<root>.bake_subdiv_filepath,
+82,<root>.geometry,Mesh_7141693633101955935
+82,<root>.material,a3___Default@mtl__44
+82,<root>.material.brdf,a3___Default@mtl_brdf__45
+82,<root>.material.brdf.lpe_label,03 - Default
+82,<root>.material.scene_name[0],03 - Default
+82,<root>.scene_name[0],Rectangle060
+82,<root>.scene_name[1],scene/三人桌/组030/Rectangle060
+82,<root>.scene_name[2],layer/0
+82,<root>.user_attributes,
+83,<root>,Circle041@node_649
+83,<root>.bake_subdiv_filepath,
+83,<root>.geometry,Mesh_12534451765972458282
+83,<root>.material,a1___Default@mtl__26
+83,<root>.material.brdf,a1___Default@mtl_brdf__27
+83,<root>.material.brdf.lpe_label,01 - Default
+83,<root>.material.scene_name[0],01 - Default
+83,<root>.scene_name[0],Circle041
+83,<root>.scene_name[1],scene/三人桌/组030/Circle041
+83,<root>.scene_name[2],layer/0
+83,<root>.user_attributes,
+84,<root>,Rectangle061@node_650
+84,<root>.bake_subdiv_filepath,
+84,<root>.geometry,Mesh_7141693633101955935
+84,<root>.material,a3___Default@mtl__44
+84,<root>.material.brdf,a3___Default@mtl_brdf__45
+84,<root>.material.brdf.lpe_label,03 - Default
+84,<root>.material.scene_name[0],03 - Default
+84,<root>.scene_name[0],Rectangle061
+84,<root>.scene_name[1],scene/三人桌/组030/Rectangle061
+84,<root>.scene_name[2],layer/0
+84,<root>.user_attributes,
+85,<root>,Circle042@node_651
+85,<root>.bake_subdiv_filepath,
+85,<root>.geometry,Mesh_12534451765972458282
+85,<root>.material,a1___Default@mtl__26
+85,<root>.material.brdf,a1___Default@mtl_brdf__27
+85,<root>.material.brdf.lpe_label,01 - Default
+85,<root>.material.scene_name[0],01 - Default
+85,<root>.scene_name[0],Circle042
+85,<root>.scene_name[1],scene/三人桌/组030/Circle042
+85,<root>.scene_name[2],layer/0
+85,<root>.user_attributes,
+86,<root>,Rectangle062@node_652
+86,<root>.bake_subdiv_filepath,
+86,<root>.geometry,Mesh_7141693633101955935
+86,<root>.material,a3___Default@mtl__44
+86,<root>.material.brdf,a3___Default@mtl_brdf__45
+86,<root>.material.brdf.lpe_label,03 - Default
+86,<root>.material.scene_name[0],03 - Default
+86,<root>.scene_name[0],Rectangle062
+86,<root>.scene_name[1],scene/三人桌/组030/Rectangle062
+86,<root>.scene_name[2],layer/0
+86,<root>.user_attributes,
+87,<root>,Circle043@node_653
+87,<root>.bake_subdiv_filepath,
+87,<root>.geometry,Mesh_12534451765972458282
+87,<root>.material,a1___Default@mtl__26
+87,<root>.material.brdf,a1___Default@mtl_brdf__27
+87,<root>.material.brdf.lpe_label,01 - Default
+87,<root>.material.scene_name[0],01 - Default
+87,<root>.scene_name[0],Circle043
+87,<root>.scene_name[1],scene/三人桌/组030/Circle043
+87,<root>.scene_name[2],layer/0
+87,<root>.user_attributes,
+88,<root>,Rectangle063@node_654
+88,<root>.bake_subdiv_filepath,
+88,<root>.geometry,Mesh_7141693633101955935
+88,<root>.material,a3___Default@mtl__44
+88,<root>.material.brdf,a3___Default@mtl_brdf__45
+88,<root>.material.brdf.lpe_label,03 - Default
+88,<root>.material.scene_name[0],03 - Default
+88,<root>.scene_name[0],Rectangle063
+88,<root>.scene_name[1],scene/三人桌/组030/Rectangle063
+88,<root>.scene_name[2],layer/0
+88,<root>.user_attributes,
+89,<root>,Plane068@node_655
+89,<root>.bake_subdiv_filepath,
+89,<root>.geometry,Mesh_15508665816278545519
+89,<root>.material,a6___Defaultzrdzzzss@mtl__41
+89,<root>.material.brdf,a6___Defaultzrdzzzss@mtl_brdf__42
+89,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzss
+89,<root>.material.scene_name[0],06 - Defaultzrdzzzss
+89,<root>.scene_name[0],Plane068
+89,<root>.scene_name[1],scene/三人桌/组030/Plane068
+89,<root>.scene_name[2],layer/0
+89,<root>.user_attributes,
+90,<root>,Rectangle064@node_656
+90,<root>.bake_subdiv_filepath,
+90,<root>.geometry,Mesh_7141693633101955935
+90,<root>.material,a3___Default@mtl__44
+90,<root>.material.brdf,a3___Default@mtl_brdf__45
+90,<root>.material.brdf.lpe_label,03 - Default
+90,<root>.material.scene_name[0],03 - Default
+90,<root>.scene_name[0],Rectangle064
+90,<root>.scene_name[1],scene/三人桌/组030/Rectangle064
+90,<root>.scene_name[2],layer/0
+90,<root>.user_attributes,
+91,<root>,Plane069@node_657
+91,<root>.bake_subdiv_filepath,
+91,<root>.geometry,Mesh_15508665816278545519
+91,<root>.material,a6___Defaultzrdzzdzsssz@mtl__62
+91,<root>.material.brdf,a6___Defaultzrdzzdzsssz@mtl_brdf__63
+91,<root>.material.brdf.lpe_label,06 - Defaultzrdzzdzsssz
+91,<root>.material.scene_name[0],06 - Defaultzrdzzdzsssz
+91,<root>.scene_name[0],Plane069
+91,<root>.scene_name[1],scene/三人桌/组030/Plane069
+91,<root>.scene_name[2],layer/0
+91,<root>.user_attributes,
+92,<root>,Plane070@node_658
+92,<root>.bake_subdiv_filepath,
+92,<root>.geometry,Mesh_15508665816278545519
+92,<root>.material,a6___Defaultzr@mtl__52
+92,<root>.material.brdf,a6___Defaultzr@mtl_brdf__53
+92,<root>.material.brdf.lpe_label,06 - Defaultzr
+92,<root>.material.scene_name[0],06 - Defaultzr
+92,<root>.scene_name[0],Plane070
+92,<root>.scene_name[1],scene/三人桌/组030/Plane070
+92,<root>.scene_name[2],layer/0
+92,<root>.user_attributes,
+93,<root>,Plane071@node_659
+93,<root>.bake_subdiv_filepath,
+93,<root>.geometry,Mesh_15508665816278545519
+93,<root>.material,a6___Defaultzrd@mtl__36
+93,<root>.material.brdf,a6___Defaultzrd@mtl_brdf__37
+93,<root>.material.brdf.lpe_label,06 - Defaultzrd
+93,<root>.material.scene_name[0],06 - Defaultzrd
+93,<root>.scene_name[0],Plane071
+93,<root>.scene_name[1],scene/三人桌/组030/Plane071
+93,<root>.scene_name[2],layer/0
+93,<root>.user_attributes,
+94,<root>,Plane072@node_660
+94,<root>.bake_subdiv_filepath,
+94,<root>.geometry,Mesh_15508665816278545519
+94,<root>.material,a6___Default@mtl__50
+94,<root>.material.brdf,a6___Default@mtl_brdf__51
+94,<root>.material.brdf.lpe_label,06 - Default
+94,<root>.material.scene_name[0],06 - Default
+94,<root>.scene_name[0],Plane072
+94,<root>.scene_name[1],scene/三人桌/组030/Plane072
+94,<root>.scene_name[2],layer/0
+94,<root>.user_attributes,
+95,<root>,Plane073@node_661
+95,<root>.bake_subdiv_filepath,
+95,<root>.geometry,Mesh_15508665816278545519
+95,<root>.material,a6___Defaultzrdz@mtl__58
+95,<root>.material.brdf,a6___Defaultzrdz@mtl_brdf__59
+95,<root>.material.brdf.lpe_label,06 - Defaultzrdz
+95,<root>.material.scene_name[0],06 - Defaultzrdz
+95,<root>.scene_name[0],Plane073
+95,<root>.scene_name[1],scene/三人桌/组030/Plane073
+95,<root>.scene_name[2],layer/0
+95,<root>.user_attributes,
+96,<root>,Plane074@node_662
+96,<root>.bake_subdiv_filepath,
+96,<root>.geometry,Mesh_15508665816278545519
+96,<root>.material,a6___Defaultzrdzzz@mtl__54
+96,<root>.material.brdf,a6___Defaultzrdzzz@mtl_brdf__55
+96,<root>.material.brdf.lpe_label,06 - Defaultzrdzzz
+96,<root>.material.scene_name[0],06 - Defaultzrdzzz
+96,<root>.scene_name[0],Plane074
+96,<root>.scene_name[1],scene/三人桌/组030/Plane074
+96,<root>.scene_name[2],layer/0
+96,<root>.user_attributes,
+97,<root>,Plane075@node_663
+97,<root>.bake_subdiv_filepath,
+97,<root>.geometry,Mesh_15508665816278545519
+97,<root>.material,a6___Defaultzrdzz@mtl__60
+97,<root>.material.brdf,a6___Defaultzrdzz@mtl_brdf__61
+97,<root>.material.brdf.lpe_label,06 - Defaultzrdzz
+97,<root>.material.scene_name[0],06 - Defaultzrdzz
+97,<root>.scene_name[0],Plane075
+97,<root>.scene_name[1],scene/三人桌/组030/Plane075
+97,<root>.scene_name[2],layer/0
+97,<root>.user_attributes,
+98,<root>,Plane076@node_664
+98,<root>.bake_subdiv_filepath,
+98,<root>.geometry,Mesh_15508665816278545519
+98,<root>.material,a6___Defaultz@mtl__48
+98,<root>.material.brdf,a6___Defaultz@mtl_brdf__49
+98,<root>.material.brdf.lpe_label,06 - Defaultz
+98,<root>.material.scene_name[0],06 - Defaultz
+98,<root>.scene_name[0],Plane076
+98,<root>.scene_name[1],scene/三人桌/组030/Plane076
+98,<root>.scene_name[2],layer/0
+98,<root>.user_attributes,
+99,<root>,对象006@node_665
+99,<root>.bake_subdiv_filepath,
+99,<root>.geometry,Mesh_8888972271749884921
+99,<root>.material,a4___Default@mtl__69
+99,<root>.material.brdf,a4___Default@mtl_brdf__70
+99,<root>.material.brdf.bump_map,贴图__3@tex_21
+99,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_13_gsRGB
+99,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/1000432.jpg
+99,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+99,<root>.material.brdf.bump_map.uvwgen,贴图__3@tex_21_uvwgen
+99,<root>.material.brdf.diffuse,a4___Default@mtl_brdf__70_diffuse_combine
+99,<root>.material.brdf.diffuse.texture,贴图__4@tex_20
+99,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_14_gsRGB
+99,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/947788.jpg
+99,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+99,<root>.material.brdf.diffuse.texture.uvwgen,贴图__4@tex_20_uvwgen
+99,<root>.material.brdf.lpe_label,04 - Default
+99,<root>.material.scene_name[0],04 - Default
+99,<root>.scene_name[0],对象006
+99,<root>.scene_name[1],scene/三人桌/组030/对象006
+99,<root>.scene_name[2],layer/0
+99,<root>.user_attributes,
+100,<root>,Rectangle065@node_666
+100,<root>.bake_subdiv_filepath,
+100,<root>.geometry,Mesh_13842163146023653227
+100,<root>.material,a1___Default@mtl__26
+100,<root>.material.brdf,a1___Default@mtl_brdf__27
+100,<root>.material.brdf.lpe_label,01 - Default
+100,<root>.material.scene_name[0],01 - Default
+100,<root>.scene_name[0],Rectangle065
+100,<root>.scene_name[1],scene/三人桌/组030/Rectangle065
+100,<root>.scene_name[2],layer/0
+100,<root>.user_attributes,
+101,<root>,Line049@node_667
+101,<root>.bake_subdiv_filepath,
+101,<root>.geometry,Mesh_9225329268065532080
+101,<root>.material,a1___Default@mtl__26
+101,<root>.material.brdf,a1___Default@mtl_brdf__27
+101,<root>.material.brdf.lpe_label,01 - Default
+101,<root>.material.scene_name[0],01 - Default
+101,<root>.scene_name[0],Line049
+101,<root>.scene_name[1],scene/三人桌/组030/Line049
+101,<root>.scene_name[2],layer/0
+101,<root>.user_attributes,
+102,<root>,Plane077@node_669
+102,<root>.bake_subdiv_filepath,
+102,<root>.geometry,Mesh_15508665816278545519
+102,<root>.material,a6___Defaultzrd@mtl__36
+102,<root>.material.brdf,a6___Defaultzrd@mtl_brdf__37
+102,<root>.material.brdf.lpe_label,06 - Defaultzrd
+102,<root>.material.scene_name[0],06 - Defaultzrd
+102,<root>.scene_name[0],Plane077
+102,<root>.scene_name[1],scene/三人桌/组031/Plane077
+102,<root>.scene_name[2],layer/0
+102,<root>.user_attributes,
+103,<root>,组031@node_668
+103,<root>.bake_subdiv_filepath,
+103,<root>.scene_name[0],组031
+103,<root>.scene_name[1],scene/三人桌/组031
+103,<root>.scene_name[2],layer/0
+103,<root>.user_attributes,
+104,<root>,Circle044@node_670
+104,<root>.bake_subdiv_filepath,
+104,<root>.geometry,Mesh_12534451765972458282
+104,<root>.material,a1___Default@mtl__26
+104,<root>.material.brdf,a1___Default@mtl_brdf__27
+104,<root>.material.brdf.lpe_label,01 - Default
+104,<root>.material.scene_name[0],01 - Default
+104,<root>.scene_name[0],Circle044
+104,<root>.scene_name[1],scene/三人桌/组031/Circle044
+104,<root>.scene_name[2],layer/0
+104,<root>.user_attributes,
+105,<root>,Plane078@node_671
+105,<root>.bake_subdiv_filepath,
+105,<root>.geometry,Mesh_15508665816278545519
+105,<root>.material,a6___Defaultzrdzzzsssz@mtl__39
+105,<root>.material.brdf,a6___Defaultzrdzzzsssz@mtl_brdf__40
+105,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsssz
+105,<root>.material.scene_name[0],06 - Defaultzrdzzzsssz
+105,<root>.scene_name[0],Plane078
+105,<root>.scene_name[1],scene/三人桌/组031/Plane078
+105,<root>.scene_name[2],layer/0
+105,<root>.user_attributes,
+106,<root>,Plane079@node_672
+106,<root>.bake_subdiv_filepath,
+106,<root>.geometry,Mesh_15508665816278545519
+106,<root>.material,a6___Defaultzrdzzzss@mtl__41
+106,<root>.material.brdf,a6___Defaultzrdzzzss@mtl_brdf__42
+106,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzss
+106,<root>.material.scene_name[0],06 - Defaultzrdzzzss
+106,<root>.scene_name[0],Plane079
+106,<root>.scene_name[1],scene/三人桌/组031/Plane079
+106,<root>.scene_name[2],layer/0
+106,<root>.user_attributes,
+107,<root>,Rectangle066@node_673
+107,<root>.bake_subdiv_filepath,
+107,<root>.geometry,Mesh_7141693633101955935
+107,<root>.material,a3___Default@mtl__44
+107,<root>.material.brdf,a3___Default@mtl_brdf__45
+107,<root>.material.brdf.lpe_label,03 - Default
+107,<root>.material.scene_name[0],03 - Default
+107,<root>.scene_name[0],Rectangle066
+107,<root>.scene_name[1],scene/三人桌/组031/Rectangle066
+107,<root>.scene_name[2],layer/0
+107,<root>.user_attributes,
+108,<root>,Circle045@node_674
+108,<root>.bake_subdiv_filepath,
+108,<root>.geometry,Mesh_12534451765972458282
+108,<root>.material,a1___Default@mtl__26
+108,<root>.material.brdf,a1___Default@mtl_brdf__27
+108,<root>.material.brdf.lpe_label,01 - Default
+108,<root>.material.scene_name[0],01 - Default
+108,<root>.scene_name[0],Circle045
+108,<root>.scene_name[1],scene/三人桌/组031/Circle045
+108,<root>.scene_name[2],layer/0
+108,<root>.user_attributes,
+109,<root>,Circle046@node_675
+109,<root>.bake_subdiv_filepath,
+109,<root>.geometry,Mesh_12534451765972458282
+109,<root>.material,a1___Default@mtl__26
+109,<root>.material.brdf,a1___Default@mtl_brdf__27
+109,<root>.material.brdf.lpe_label,01 - Default
+109,<root>.material.scene_name[0],01 - Default
+109,<root>.scene_name[0],Circle046
+109,<root>.scene_name[1],scene/三人桌/组031/Circle046
+109,<root>.scene_name[2],layer/0
+109,<root>.user_attributes,
+110,<root>,Rectangle067@node_676
+110,<root>.bake_subdiv_filepath,
+110,<root>.geometry,Mesh_7141693633101955935
+110,<root>.material,a3___Default@mtl__44
+110,<root>.material.brdf,a3___Default@mtl_brdf__45
+110,<root>.material.brdf.lpe_label,03 - Default
+110,<root>.material.scene_name[0],03 - Default
+110,<root>.scene_name[0],Rectangle067
+110,<root>.scene_name[1],scene/三人桌/组031/Rectangle067
+110,<root>.scene_name[2],layer/0
+110,<root>.user_attributes,
+111,<root>,Circle047@node_677
+111,<root>.bake_subdiv_filepath,
+111,<root>.geometry,Mesh_12534451765972458282
+111,<root>.material,a1___Default@mtl__26
+111,<root>.material.brdf,a1___Default@mtl_brdf__27
+111,<root>.material.brdf.lpe_label,01 - Default
+111,<root>.material.scene_name[0],01 - Default
+111,<root>.scene_name[0],Circle047
+111,<root>.scene_name[1],scene/三人桌/组031/Circle047
+111,<root>.scene_name[2],layer/0
+111,<root>.user_attributes,
+112,<root>,Rectangle068@node_678
+112,<root>.bake_subdiv_filepath,
+112,<root>.geometry,Mesh_7141693633101955935
+112,<root>.material,a3___Default@mtl__44
+112,<root>.material.brdf,a3___Default@mtl_brdf__45
+112,<root>.material.brdf.lpe_label,03 - Default
+112,<root>.material.scene_name[0],03 - Default
+112,<root>.scene_name[0],Rectangle068
+112,<root>.scene_name[1],scene/三人桌/组031/Rectangle068
+112,<root>.scene_name[2],layer/0
+112,<root>.user_attributes,
+113,<root>,Circle048@node_679
+113,<root>.bake_subdiv_filepath,
+113,<root>.geometry,Mesh_12534451765972458282
+113,<root>.material,a1___Default@mtl__26
+113,<root>.material.brdf,a1___Default@mtl_brdf__27
+113,<root>.material.brdf.lpe_label,01 - Default
+113,<root>.material.scene_name[0],01 - Default
+113,<root>.scene_name[0],Circle048
+113,<root>.scene_name[1],scene/三人桌/组031/Circle048
+113,<root>.scene_name[2],layer/0
+113,<root>.user_attributes,
+114,<root>,Rectangle069@node_680
+114,<root>.bake_subdiv_filepath,
+114,<root>.geometry,Mesh_7141693633101955935
+114,<root>.material,a3___Default@mtl__44
+114,<root>.material.brdf,a3___Default@mtl_brdf__45
+114,<root>.material.brdf.lpe_label,03 - Default
+114,<root>.material.scene_name[0],03 - Default
+114,<root>.scene_name[0],Rectangle069
+114,<root>.scene_name[1],scene/三人桌/组031/Rectangle069
+114,<root>.scene_name[2],layer/0
+114,<root>.user_attributes,
+115,<root>,Circle049@node_681
+115,<root>.bake_subdiv_filepath,
+115,<root>.geometry,Mesh_12534451765972458282
+115,<root>.material,a1___Default@mtl__26
+115,<root>.material.brdf,a1___Default@mtl_brdf__27
+115,<root>.material.brdf.lpe_label,01 - Default
+115,<root>.material.scene_name[0],01 - Default
+115,<root>.scene_name[0],Circle049
+115,<root>.scene_name[1],scene/三人桌/组031/Circle049
+115,<root>.scene_name[2],layer/0
+115,<root>.user_attributes,
+116,<root>,Rectangle070@node_682
+116,<root>.bake_subdiv_filepath,
+116,<root>.geometry,Mesh_7141693633101955935
+116,<root>.material,a3___Default@mtl__44
+116,<root>.material.brdf,a3___Default@mtl_brdf__45
+116,<root>.material.brdf.lpe_label,03 - Default
+116,<root>.material.scene_name[0],03 - Default
+116,<root>.scene_name[0],Rectangle070
+116,<root>.scene_name[1],scene/三人桌/组031/Rectangle070
+116,<root>.scene_name[2],layer/0
+116,<root>.user_attributes,
+117,<root>,Plane080@node_683
+117,<root>.bake_subdiv_filepath,
+117,<root>.geometry,Mesh_15508665816278545519
+117,<root>.material,a6___Defaultzrdzzzsss@mtl__46
+117,<root>.material.brdf,a6___Defaultzrdzzzsss@mtl_brdf__47
+117,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsss
+117,<root>.material.scene_name[0],06 - Defaultzrdzzzsss
+117,<root>.scene_name[0],Plane080
+117,<root>.scene_name[1],scene/三人桌/组031/Plane080
+117,<root>.scene_name[2],layer/0
+117,<root>.user_attributes,
+118,<root>,Rectangle071@node_684
+118,<root>.bake_subdiv_filepath,
+118,<root>.geometry,Mesh_7141693633101955935
+118,<root>.material,a3___Default@mtl__44
+118,<root>.material.brdf,a3___Default@mtl_brdf__45
+118,<root>.material.brdf.lpe_label,03 - Default
+118,<root>.material.scene_name[0],03 - Default
+118,<root>.scene_name[0],Rectangle071
+118,<root>.scene_name[1],scene/三人桌/组031/Rectangle071
+118,<root>.scene_name[2],layer/0
+118,<root>.user_attributes,
+119,<root>,Plane081@node_685
+119,<root>.bake_subdiv_filepath,
+119,<root>.geometry,Mesh_15508665816278545519
+119,<root>.material,a6___Defaultz@mtl__48
+119,<root>.material.brdf,a6___Defaultz@mtl_brdf__49
+119,<root>.material.brdf.lpe_label,06 - Defaultz
+119,<root>.material.scene_name[0],06 - Defaultz
+119,<root>.scene_name[0],Plane081
+119,<root>.scene_name[1],scene/三人桌/组031/Plane081
+119,<root>.scene_name[2],layer/0
+119,<root>.user_attributes,
+120,<root>,Plane082@node_686
+120,<root>.bake_subdiv_filepath,
+120,<root>.geometry,Mesh_15508665816278545519
+120,<root>.material,a6___Default@mtl__50
+120,<root>.material.brdf,a6___Default@mtl_brdf__51
+120,<root>.material.brdf.lpe_label,06 - Default
+120,<root>.material.scene_name[0],06 - Default
+120,<root>.scene_name[0],Plane082
+120,<root>.scene_name[1],scene/三人桌/组031/Plane082
+120,<root>.scene_name[2],layer/0
+120,<root>.user_attributes,
+121,<root>,Plane083@node_687
+121,<root>.bake_subdiv_filepath,
+121,<root>.geometry,Mesh_15508665816278545519
+121,<root>.material,a6___Defaultzr@mtl__52
+121,<root>.material.brdf,a6___Defaultzr@mtl_brdf__53
+121,<root>.material.brdf.lpe_label,06 - Defaultzr
+121,<root>.material.scene_name[0],06 - Defaultzr
+121,<root>.scene_name[0],Plane083
+121,<root>.scene_name[1],scene/三人桌/组031/Plane083
+121,<root>.scene_name[2],layer/0
+121,<root>.user_attributes,
+122,<root>,Plane084@node_688
+122,<root>.bake_subdiv_filepath,
+122,<root>.geometry,Mesh_15508665816278545519
+122,<root>.material,a6___Defaultzrdzzz@mtl__54
+122,<root>.material.brdf,a6___Defaultzrdzzz@mtl_brdf__55
+122,<root>.material.brdf.lpe_label,06 - Defaultzrdzzz
+122,<root>.material.scene_name[0],06 - Defaultzrdzzz
+122,<root>.scene_name[0],Plane084
+122,<root>.scene_name[1],scene/三人桌/组031/Plane084
+122,<root>.scene_name[2],layer/0
+122,<root>.user_attributes,
+123,<root>,Plane085@node_689
+123,<root>.bake_subdiv_filepath,
+123,<root>.geometry,Mesh_15508665816278545519
+123,<root>.material,a6___Defaultzrdzzzs@mtl__56
+123,<root>.material.brdf,a6___Defaultzrdzzzs@mtl_brdf__57
+123,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzs
+123,<root>.material.scene_name[0],06 - Defaultzrdzzzs
+123,<root>.scene_name[0],Plane085
+123,<root>.scene_name[1],scene/三人桌/组031/Plane085
+123,<root>.scene_name[2],layer/0
+123,<root>.user_attributes,
+124,<root>,Plane086@node_690
+124,<root>.bake_subdiv_filepath,
+124,<root>.geometry,Mesh_15508665816278545519
+124,<root>.material,a6___Defaultzrdz@mtl__58
+124,<root>.material.brdf,a6___Defaultzrdz@mtl_brdf__59
+124,<root>.material.brdf.lpe_label,06 - Defaultzrdz
+124,<root>.material.scene_name[0],06 - Defaultzrdz
+124,<root>.scene_name[0],Plane086
+124,<root>.scene_name[1],scene/三人桌/组031/Plane086
+124,<root>.scene_name[2],layer/0
+124,<root>.user_attributes,
+125,<root>,Plane087@node_691
+125,<root>.bake_subdiv_filepath,
+125,<root>.geometry,Mesh_15508665816278545519
+125,<root>.material,a6___Defaultzrdzz@mtl__60
+125,<root>.material.brdf,a6___Defaultzrdzz@mtl_brdf__61
+125,<root>.material.brdf.lpe_label,06 - Defaultzrdzz
+125,<root>.material.scene_name[0],06 - Defaultzrdzz
+125,<root>.scene_name[0],Plane087
+125,<root>.scene_name[1],scene/三人桌/组031/Plane087
+125,<root>.scene_name[2],layer/0
+125,<root>.user_attributes,
+126,<root>,Plane088@node_692
+126,<root>.bake_subdiv_filepath,
+126,<root>.geometry,Mesh_15508665816278545519
+126,<root>.material,a6___Defaultzrdzzdzsssz@mtl__62
+126,<root>.material.brdf,a6___Defaultzrdzzdzsssz@mtl_brdf__63
+126,<root>.material.brdf.lpe_label,06 - Defaultzrdzzdzsssz
+126,<root>.material.scene_name[0],06 - Defaultzrdzzdzsssz
+126,<root>.scene_name[0],Plane088
+126,<root>.scene_name[1],scene/三人桌/组031/Plane088
+126,<root>.scene_name[2],layer/0
+126,<root>.user_attributes,
+127,<root>,对象007@node_693
+127,<root>.bake_subdiv_filepath,
+127,<root>.geometry,Mesh_8888972271749884921
+127,<root>.material,a4___Defaultz@mtl__65
+127,<root>.material.brdf,a4___Defaultz@mtl_brdf__66
+127,<root>.material.brdf.bump_map,贴图__3@tex_19
+127,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_13_gsRGB
+127,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/1000432.jpg
+127,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+127,<root>.material.brdf.bump_map.uvwgen,贴图__3@tex_19_uvwgen
+127,<root>.material.brdf.diffuse,a4___Defaultz@mtl_brdf__66_diffuse_combine
+127,<root>.material.brdf.diffuse.texture,贴图__2@tex_18
+127,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_12_gsRGB
+127,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/950116.jpg
+127,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+127,<root>.material.brdf.diffuse.texture.uvwgen,贴图__2@tex_18_uvwgen
+127,<root>.material.brdf.lpe_label,04 - Defaultz
+127,<root>.material.scene_name[0],04 - Defaultz
+127,<root>.scene_name[0],对象007
+127,<root>.scene_name[1],scene/三人桌/组031/对象007
+127,<root>.scene_name[2],layer/0
+127,<root>.user_attributes,
+128,<root>,Rectangle072@node_694
+128,<root>.bake_subdiv_filepath,
+128,<root>.geometry,Mesh_13842163146023653227
+128,<root>.material,a1___Default@mtl__26
+128,<root>.material.brdf,a1___Default@mtl_brdf__27
+128,<root>.material.brdf.lpe_label,01 - Default
+128,<root>.material.scene_name[0],01 - Default
+128,<root>.scene_name[0],Rectangle072
+128,<root>.scene_name[1],scene/三人桌/组031/Rectangle072
+128,<root>.scene_name[2],layer/0
+128,<root>.user_attributes,
+129,<root>,Line050@node_695
+129,<root>.bake_subdiv_filepath,
+129,<root>.geometry,Mesh_9225329268065532080
+129,<root>.material,a1___Default@mtl__26
+129,<root>.material.brdf,a1___Default@mtl_brdf__27
+129,<root>.material.brdf.lpe_label,01 - Default
+129,<root>.material.scene_name[0],01 - Default
+129,<root>.scene_name[0],Line050
+129,<root>.scene_name[1],scene/三人桌/组031/Line050
+129,<root>.scene_name[2],layer/0
+129,<root>.user_attributes,
+130,<root>,Circle050@node_697
+130,<root>.bake_subdiv_filepath,
+130,<root>.geometry,Mesh_12534451765972458282
+130,<root>.material,a1___Default@mtl__26
+130,<root>.material.brdf,a1___Default@mtl_brdf__27
+130,<root>.material.brdf.lpe_label,01 - Default
+130,<root>.material.scene_name[0],01 - Default
+130,<root>.scene_name[0],Circle050
+130,<root>.scene_name[1],scene/三人桌/组032/Circle050
+130,<root>.scene_name[2],layer/0
+130,<root>.user_attributes,
+131,<root>,组032@node_696
+131,<root>.bake_subdiv_filepath,
+131,<root>.scene_name[0],组032
+131,<root>.scene_name[1],scene/三人桌/组032
+131,<root>.scene_name[2],layer/0
+131,<root>.user_attributes,
+132,<root>,Plane089@node_698
+132,<root>.bake_subdiv_filepath,
+132,<root>.geometry,Mesh_15508665816278545519
+132,<root>.material,a6___Defaultzrdzzzsssz@mtl__39
+132,<root>.material.brdf,a6___Defaultzrdzzzsssz@mtl_brdf__40
+132,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsssz
+132,<root>.material.scene_name[0],06 - Defaultzrdzzzsssz
+132,<root>.scene_name[0],Plane089
+132,<root>.scene_name[1],scene/三人桌/组032/Plane089
+132,<root>.scene_name[2],layer/0
+132,<root>.user_attributes,
+133,<root>,Circle051@node_699
+133,<root>.bake_subdiv_filepath,
+133,<root>.geometry,Mesh_12534451765972458282
+133,<root>.material,a1___Default@mtl__26
+133,<root>.material.brdf,a1___Default@mtl_brdf__27
+133,<root>.material.brdf.lpe_label,01 - Default
+133,<root>.material.scene_name[0],01 - Default
+133,<root>.scene_name[0],Circle051
+133,<root>.scene_name[1],scene/三人桌/组032/Circle051
+133,<root>.scene_name[2],layer/0
+133,<root>.user_attributes,
+134,<root>,Plane090@node_700
+134,<root>.bake_subdiv_filepath,
+134,<root>.geometry,Mesh_15508665816278545519
+134,<root>.material,a6___Defaultzrdzzzs@mtl__56
+134,<root>.material.brdf,a6___Defaultzrdzzzs@mtl_brdf__57
+134,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzs
+134,<root>.material.scene_name[0],06 - Defaultzrdzzzs
+134,<root>.scene_name[0],Plane090
+134,<root>.scene_name[1],scene/三人桌/组032/Plane090
+134,<root>.scene_name[2],layer/0
+134,<root>.user_attributes,
+135,<root>,Plane091@node_701
+135,<root>.bake_subdiv_filepath,
+135,<root>.geometry,Mesh_15508665816278545519
+135,<root>.material,a6___Defaultzrdzzzsss@mtl__46
+135,<root>.material.brdf,a6___Defaultzrdzzzsss@mtl_brdf__47
+135,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzsss
+135,<root>.material.scene_name[0],06 - Defaultzrdzzzsss
+135,<root>.scene_name[0],Plane091
+135,<root>.scene_name[1],scene/三人桌/组032/Plane091
+135,<root>.scene_name[2],layer/0
+135,<root>.user_attributes,
+136,<root>,Rectangle073@node_702
+136,<root>.bake_subdiv_filepath,
+136,<root>.geometry,Mesh_7141693633101955935
+136,<root>.material,a3___Default@mtl__44
+136,<root>.material.brdf,a3___Default@mtl_brdf__45
+136,<root>.material.brdf.lpe_label,03 - Default
+136,<root>.material.scene_name[0],03 - Default
+136,<root>.scene_name[0],Rectangle073
+136,<root>.scene_name[1],scene/三人桌/组032/Rectangle073
+136,<root>.scene_name[2],layer/0
+136,<root>.user_attributes,
+137,<root>,Circle052@node_703
+137,<root>.bake_subdiv_filepath,
+137,<root>.geometry,Mesh_12534451765972458282
+137,<root>.material,a1___Default@mtl__26
+137,<root>.material.brdf,a1___Default@mtl_brdf__27
+137,<root>.material.brdf.lpe_label,01 - Default
+137,<root>.material.scene_name[0],01 - Default
+137,<root>.scene_name[0],Circle052
+137,<root>.scene_name[1],scene/三人桌/组032/Circle052
+137,<root>.scene_name[2],layer/0
+137,<root>.user_attributes,
+138,<root>,Rectangle074@node_704
+138,<root>.bake_subdiv_filepath,
+138,<root>.geometry,Mesh_7141693633101955935
+138,<root>.material,a3___Default@mtl__44
+138,<root>.material.brdf,a3___Default@mtl_brdf__45
+138,<root>.material.brdf.lpe_label,03 - Default
+138,<root>.material.scene_name[0],03 - Default
+138,<root>.scene_name[0],Rectangle074
+138,<root>.scene_name[1],scene/三人桌/组032/Rectangle074
+138,<root>.scene_name[2],layer/0
+138,<root>.user_attributes,
+139,<root>,Circle053@node_705
+139,<root>.bake_subdiv_filepath,
+139,<root>.geometry,Mesh_12534451765972458282
+139,<root>.material,a1___Default@mtl__26
+139,<root>.material.brdf,a1___Default@mtl_brdf__27
+139,<root>.material.brdf.lpe_label,01 - Default
+139,<root>.material.scene_name[0],01 - Default
+139,<root>.scene_name[0],Circle053
+139,<root>.scene_name[1],scene/三人桌/组032/Circle053
+139,<root>.scene_name[2],layer/0
+139,<root>.user_attributes,
+140,<root>,Rectangle075@node_706
+140,<root>.bake_subdiv_filepath,
+140,<root>.geometry,Mesh_7141693633101955935
+140,<root>.material,a3___Default@mtl__44
+140,<root>.material.brdf,a3___Default@mtl_brdf__45
+140,<root>.material.brdf.lpe_label,03 - Default
+140,<root>.material.scene_name[0],03 - Default
+140,<root>.scene_name[0],Rectangle075
+140,<root>.scene_name[1],scene/三人桌/组032/Rectangle075
+140,<root>.scene_name[2],layer/0
+140,<root>.user_attributes,
+141,<root>,Circle054@node_707
+141,<root>.bake_subdiv_filepath,
+141,<root>.geometry,Mesh_12534451765972458282
+141,<root>.material,a1___Default@mtl__26
+141,<root>.material.brdf,a1___Default@mtl_brdf__27
+141,<root>.material.brdf.lpe_label,01 - Default
+141,<root>.material.scene_name[0],01 - Default
+141,<root>.scene_name[0],Circle054
+141,<root>.scene_name[1],scene/三人桌/组032/Circle054
+141,<root>.scene_name[2],layer/0
+141,<root>.user_attributes,
+142,<root>,Rectangle076@node_708
+142,<root>.bake_subdiv_filepath,
+142,<root>.geometry,Mesh_7141693633101955935
+142,<root>.material,a3___Default@mtl__44
+142,<root>.material.brdf,a3___Default@mtl_brdf__45
+142,<root>.material.brdf.lpe_label,03 - Default
+142,<root>.material.scene_name[0],03 - Default
+142,<root>.scene_name[0],Rectangle076
+142,<root>.scene_name[1],scene/三人桌/组032/Rectangle076
+142,<root>.scene_name[2],layer/0
+142,<root>.user_attributes,
+143,<root>,Circle055@node_709
+143,<root>.bake_subdiv_filepath,
+143,<root>.geometry,Mesh_12534451765972458282
+143,<root>.material,a1___Default@mtl__26
+143,<root>.material.brdf,a1___Default@mtl_brdf__27
+143,<root>.material.brdf.lpe_label,01 - Default
+143,<root>.material.scene_name[0],01 - Default
+143,<root>.scene_name[0],Circle055
+143,<root>.scene_name[1],scene/三人桌/组032/Circle055
+143,<root>.scene_name[2],layer/0
+143,<root>.user_attributes,
+144,<root>,Rectangle077@node_710
+144,<root>.bake_subdiv_filepath,
+144,<root>.geometry,Mesh_7141693633101955935
+144,<root>.material,a3___Default@mtl__44
+144,<root>.material.brdf,a3___Default@mtl_brdf__45
+144,<root>.material.brdf.lpe_label,03 - Default
+144,<root>.material.scene_name[0],03 - Default
+144,<root>.scene_name[0],Rectangle077
+144,<root>.scene_name[1],scene/三人桌/组032/Rectangle077
+144,<root>.scene_name[2],layer/0
+144,<root>.user_attributes,
+145,<root>,Plane092@node_711
+145,<root>.bake_subdiv_filepath,
+145,<root>.geometry,Mesh_15508665816278545519
+145,<root>.material,a6___Defaultzrdzzzss@mtl__41
+145,<root>.material.brdf,a6___Defaultzrdzzzss@mtl_brdf__42
+145,<root>.material.brdf.lpe_label,06 - Defaultzrdzzzss
+145,<root>.material.scene_name[0],06 - Defaultzrdzzzss
+145,<root>.scene_name[0],Plane092
+145,<root>.scene_name[1],scene/三人桌/组032/Plane092
+145,<root>.scene_name[2],layer/0
+145,<root>.user_attributes,
+146,<root>,Rectangle078@node_712
+146,<root>.bake_subdiv_filepath,
+146,<root>.geometry,Mesh_7141693633101955935
+146,<root>.material,a3___Default@mtl__44
+146,<root>.material.brdf,a3___Default@mtl_brdf__45
+146,<root>.material.brdf.lpe_label,03 - Default
+146,<root>.material.scene_name[0],03 - Default
+146,<root>.scene_name[0],Rectangle078
+146,<root>.scene_name[1],scene/三人桌/组032/Rectangle078
+146,<root>.scene_name[2],layer/0
+146,<root>.user_attributes,
+147,<root>,Plane093@node_713
+147,<root>.bake_subdiv_filepath,
+147,<root>.geometry,Mesh_15508665816278545519
+147,<root>.material,a6___Defaultzrdzzdzsssz@mtl__62
+147,<root>.material.brdf,a6___Defaultzrdzzdzsssz@mtl_brdf__63
+147,<root>.material.brdf.lpe_label,06 - Defaultzrdzzdzsssz
+147,<root>.material.scene_name[0],06 - Defaultzrdzzdzsssz
+147,<root>.scene_name[0],Plane093
+147,<root>.scene_name[1],scene/三人桌/组032/Plane093
+147,<root>.scene_name[2],layer/0
+147,<root>.user_attributes,
+148,<root>,Plane094@node_714
+148,<root>.bake_subdiv_filepath,
+148,<root>.geometry,Mesh_15508665816278545519
+148,<root>.material,a6___Defaultzr@mtl__52
+148,<root>.material.brdf,a6___Defaultzr@mtl_brdf__53
+148,<root>.material.brdf.lpe_label,06 - Defaultzr
+148,<root>.material.scene_name[0],06 - Defaultzr
+148,<root>.scene_name[0],Plane094
+148,<root>.scene_name[1],scene/三人桌/组032/Plane094
+148,<root>.scene_name[2],layer/0
+148,<root>.user_attributes,
+149,<root>,Plane095@node_715
+149,<root>.bake_subdiv_filepath,
+149,<root>.geometry,Mesh_15508665816278545519
+149,<root>.material,a6___Defaultzrd@mtl__36
+149,<root>.material.brdf,a6___Defaultzrd@mtl_brdf__37
+149,<root>.material.brdf.lpe_label,06 - Defaultzrd
+149,<root>.material.scene_name[0],06 - Defaultzrd
+149,<root>.scene_name[0],Plane095
+149,<root>.scene_name[1],scene/三人桌/组032/Plane095
+149,<root>.scene_name[2],layer/0
+149,<root>.user_attributes,
+150,<root>,Plane096@node_716
+150,<root>.bake_subdiv_filepath,
+150,<root>.geometry,Mesh_15508665816278545519
+150,<root>.material,a6___Default@mtl__50
+150,<root>.material.brdf,a6___Default@mtl_brdf__51
+150,<root>.material.brdf.lpe_label,06 - Default
+150,<root>.material.scene_name[0],06 - Default
+150,<root>.scene_name[0],Plane096
+150,<root>.scene_name[1],scene/三人桌/组032/Plane096
+150,<root>.scene_name[2],layer/0
+150,<root>.user_attributes,
+151,<root>,Plane097@node_717
+151,<root>.bake_subdiv_filepath,
+151,<root>.geometry,Mesh_15508665816278545519
+151,<root>.material,a6___Defaultzrdz@mtl__58
+151,<root>.material.brdf,a6___Defaultzrdz@mtl_brdf__59
+151,<root>.material.brdf.lpe_label,06 - Defaultzrdz
+151,<root>.material.scene_name[0],06 - Defaultzrdz
+151,<root>.scene_name[0],Plane097
+151,<root>.scene_name[1],scene/三人桌/组032/Plane097
+151,<root>.scene_name[2],layer/0
+151,<root>.user_attributes,
+152,<root>,Plane098@node_718
+152,<root>.bake_subdiv_filepath,
+152,<root>.geometry,Mesh_15508665816278545519
+152,<root>.material,a6___Defaultzrdzzz@mtl__54
+152,<root>.material.brdf,a6___Defaultzrdzzz@mtl_brdf__55
+152,<root>.material.brdf.lpe_label,06 - Defaultzrdzzz
+152,<root>.material.scene_name[0],06 - Defaultzrdzzz
+152,<root>.scene_name[0],Plane098
+152,<root>.scene_name[1],scene/三人桌/组032/Plane098
+152,<root>.scene_name[2],layer/0
+152,<root>.user_attributes,
+153,<root>,Plane099@node_719
+153,<root>.bake_subdiv_filepath,
+153,<root>.geometry,Mesh_15508665816278545519
+153,<root>.material,a6___Defaultzrdzz@mtl__60
+153,<root>.material.brdf,a6___Defaultzrdzz@mtl_brdf__61
+153,<root>.material.brdf.lpe_label,06 - Defaultzrdzz
+153,<root>.material.scene_name[0],06 - Defaultzrdzz
+153,<root>.scene_name[0],Plane099
+153,<root>.scene_name[1],scene/三人桌/组032/Plane099
+153,<root>.scene_name[2],layer/0
+153,<root>.user_attributes,
+154,<root>,Plane100@node_720
+154,<root>.bake_subdiv_filepath,
+154,<root>.geometry,Mesh_15508665816278545519
+154,<root>.material,a6___Defaultz@mtl__48
+154,<root>.material.brdf,a6___Defaultz@mtl_brdf__49
+154,<root>.material.brdf.lpe_label,06 - Defaultz
+154,<root>.material.scene_name[0],06 - Defaultz
+154,<root>.scene_name[0],Plane100
+154,<root>.scene_name[1],scene/三人桌/组032/Plane100
+154,<root>.scene_name[2],layer/0
+154,<root>.user_attributes,
+155,<root>,对象008@node_721
+155,<root>.bake_subdiv_filepath,
+155,<root>.geometry,Mesh_8888972271749884921
+155,<root>.material,a4___Default@mtl__69
+155,<root>.material.brdf,a4___Default@mtl_brdf__70
+155,<root>.material.brdf.bump_map,贴图__3@tex_21
+155,<root>.material.brdf.bump_map.bitmap,bitmapBuffer_13_gsRGB
+155,<root>.material.brdf.bump_map.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/1000432.jpg
+155,<root>.material.brdf.bump_map.bitmap.rgb_color_space,raw
+155,<root>.material.brdf.bump_map.uvwgen,贴图__3@tex_21_uvwgen
+155,<root>.material.brdf.diffuse,a4___Default@mtl_brdf__70_diffuse_combine
+155,<root>.material.brdf.diffuse.texture,贴图__4@tex_20
+155,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_14_gsRGB
+155,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/947788.jpg
+155,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+155,<root>.material.brdf.diffuse.texture.uvwgen,贴图__4@tex_20_uvwgen
+155,<root>.material.brdf.lpe_label,04 - Default
+155,<root>.material.scene_name[0],04 - Default
+155,<root>.scene_name[0],对象008
+155,<root>.scene_name[1],scene/三人桌/组032/对象008
+155,<root>.scene_name[2],layer/0
+155,<root>.user_attributes,
+156,<root>,Rectangle079@node_722
+156,<root>.bake_subdiv_filepath,
+156,<root>.geometry,Mesh_13842163146023653227
+156,<root>.material,a1___Default@mtl__26
+156,<root>.material.brdf,a1___Default@mtl_brdf__27
+156,<root>.material.brdf.lpe_label,01 - Default
+156,<root>.material.scene_name[0],01 - Default
+156,<root>.scene_name[0],Rectangle079
+156,<root>.scene_name[1],scene/三人桌/组032/Rectangle079
+156,<root>.scene_name[2],layer/0
+156,<root>.user_attributes,
+157,<root>,Line051@node_723
+157,<root>.bake_subdiv_filepath,
+157,<root>.geometry,Mesh_9225329268065532080
+157,<root>.material,a1___Default@mtl__26
+157,<root>.material.brdf,a1___Default@mtl_brdf__27
+157,<root>.material.brdf.lpe_label,01 - Default
+157,<root>.material.scene_name[0],01 - Default
+157,<root>.scene_name[0],Line051
+157,<root>.scene_name[1],scene/三人桌/组032/Line051
+157,<root>.scene_name[2],layer/0
+157,<root>.user_attributes,
+158,<root>,Sphere026@node_724
+158,<root>.bake_subdiv_filepath,
+158,<root>.geometry,Mesh_3039274598326039854
+158,<root>.material,Material__87@mtl__72
+158,<root>.material.scene_name[0],Material #87
+158,<root>.scene_name[0],Sphere026
+158,<root>.scene_name[1],scene/三人桌/Sphere026
+158,<root>.scene_name[2],layer/0
+158,<root>.user_attributes,
+159,<root>,Sphere027@node_725
+159,<root>.bake_subdiv_filepath,
+159,<root>.geometry,Mesh_3039274598326039854
+159,<root>.material,Material__87@mtl__72
+159,<root>.material.scene_name[0],Material #87
+159,<root>.scene_name[0],Sphere027
+159,<root>.scene_name[1],scene/三人桌/Sphere027
+159,<root>.scene_name[2],layer/0
+159,<root>.user_attributes,
+160,<root>,Sphere028@node_726
+160,<root>.bake_subdiv_filepath,
+160,<root>.geometry,Mesh_3039274598326039854
+160,<root>.material,Material__87@mtl__72
+160,<root>.material.scene_name[0],Material #87
+160,<root>.scene_name[0],Sphere028
+160,<root>.scene_name[1],scene/三人桌/Sphere028
+160,<root>.scene_name[2],layer/0
+160,<root>.user_attributes,
+161,<root>,Sphere025@node_728
+161,<root>.bake_subdiv_filepath,
+161,<root>.geometry,Mesh_3039274598326039854
+161,<root>.material,Material__87@mtl__72
+161,<root>.material.scene_name[0],Material #87
+161,<root>.scene_name[0],Sphere025
+161,<root>.scene_name[1],scene/三人桌/组033/Sphere025
+161,<root>.scene_name[2],layer/0
+161,<root>.user_attributes,
+162,<root>,组033@node_727
+162,<root>.bake_subdiv_filepath,
+162,<root>.scene_name[0],组033
+162,<root>.scene_name[1],scene/三人桌/组033
+162,<root>.scene_name[2],layer/0
+162,<root>.user_attributes,
+163,<root>,Circle064@node_729
+163,<root>.bake_subdiv_filepath,
+163,<root>.geometry,Mesh_10042589131597264772
+163,<root>.material,Material__134@mtl__78
+163,<root>.material.scene_name[0],Material #134
+163,<root>.scene_name[0],Circle064
+163,<root>.scene_name[1],scene/三人桌/组033/Circle064
+163,<root>.scene_name[2],layer/0
+163,<root>.user_attributes,
+164,<root>,Circle065@node_730
+164,<root>.bake_subdiv_filepath,
+164,<root>.geometry,Mesh_10042589131597264772
+164,<root>.material,Material__134@mtl__78
+164,<root>.material.scene_name[0],Material #134
+164,<root>.scene_name[0],Circle065
+164,<root>.scene_name[1],scene/三人桌/组033/Circle065
+164,<root>.scene_name[2],layer/0
+164,<root>.user_attributes,
+165,<root>,Rectangle114@node_731
+165,<root>.bake_subdiv_filepath,
+165,<root>.geometry,Mesh_6325083600832845307
+165,<root>.material,a1___Default@mtl__26
+165,<root>.material.brdf,a1___Default@mtl_brdf__27
+165,<root>.material.brdf.lpe_label,01 - Default
+165,<root>.material.scene_name[0],01 - Default
+165,<root>.scene_name[0],Rectangle114
+165,<root>.scene_name[1],scene/三人桌/组033/Rectangle114
+165,<root>.scene_name[2],layer/0
+165,<root>.user_attributes,
+166,<root>,Sphere032@node_733
+166,<root>.bake_subdiv_filepath,
+166,<root>.geometry,Mesh_3039274598326039854
+166,<root>.material,Material__87@mtl__72
+166,<root>.material.scene_name[0],Material #87
+166,<root>.scene_name[0],Sphere032
+166,<root>.scene_name[1],scene/三人桌/组034/Sphere032
+166,<root>.scene_name[2],layer/0
+166,<root>.user_attributes,
+167,<root>,组034@node_732
+167,<root>.bake_subdiv_filepath,
+167,<root>.scene_name[0],组034
+167,<root>.scene_name[1],scene/三人桌/组034
+167,<root>.scene_name[2],layer/0
+167,<root>.user_attributes,
+168,<root>,Circle066@node_734
+168,<root>.bake_subdiv_filepath,
+168,<root>.geometry,Mesh_10042589131597264772
+168,<root>.material,Material__134@mtl__78
+168,<root>.material.scene_name[0],Material #134
+168,<root>.scene_name[0],Circle066
+168,<root>.scene_name[1],scene/三人桌/组034/Circle066
+168,<root>.scene_name[2],layer/0
+168,<root>.user_attributes,
+169,<root>,Circle067@node_735
+169,<root>.bake_subdiv_filepath,
+169,<root>.geometry,Mesh_10042589131597264772
+169,<root>.material,Material__134@mtl__78
+169,<root>.material.scene_name[0],Material #134
+169,<root>.scene_name[0],Circle067
+169,<root>.scene_name[1],scene/三人桌/组034/Circle067
+169,<root>.scene_name[2],layer/0
+169,<root>.user_attributes,
+170,<root>,Rectangle115@node_736
+170,<root>.bake_subdiv_filepath,
+170,<root>.geometry,Mesh_6325083600832845307
+170,<root>.material,a1___Default@mtl__26
+170,<root>.material.brdf,a1___Default@mtl_brdf__27
+170,<root>.material.brdf.lpe_label,01 - Default
+170,<root>.material.scene_name[0],01 - Default
+170,<root>.scene_name[0],Rectangle115
+170,<root>.scene_name[1],scene/三人桌/组034/Rectangle115
+170,<root>.scene_name[2],layer/0
+170,<root>.user_attributes,
+171,<root>,Rectangle013@node_737
+171,<root>.bake_subdiv_filepath,
+171,<root>.geometry,Mesh_14238319805842586339
+171,<root>.material,a1___Default@mtl__26
+171,<root>.material.brdf,a1___Default@mtl_brdf__27
+171,<root>.material.brdf.lpe_label,01 - Default
+171,<root>.material.scene_name[0],01 - Default
+171,<root>.scene_name[0],Rectangle013
+171,<root>.scene_name[1],scene/三人桌/Rectangle013
+171,<root>.scene_name[2],layer/0
+171,<root>.user_attributes,
+172,<root>,Rectangle014@node_738
+172,<root>.bake_subdiv_filepath,
+172,<root>.geometry,Mesh_14238319805842586339
+172,<root>.material,a1___Default@mtl__26
+172,<root>.material.brdf,a1___Default@mtl_brdf__27
+172,<root>.material.brdf.lpe_label,01 - Default
+172,<root>.material.scene_name[0],01 - Default
+172,<root>.scene_name[0],Rectangle014
+172,<root>.scene_name[1],scene/三人桌/Rectangle014
+172,<root>.scene_name[2],layer/0
+172,<root>.user_attributes,
+173,<root>,Line026@node_739
+173,<root>.bake_subdiv_filepath,
+173,<root>.geometry,Mesh_5046691834524415197
+173,<root>.material,a1___Default@mtl__26
+173,<root>.material.brdf,a1___Default@mtl_brdf__27
+173,<root>.material.brdf.lpe_label,01 - Default
+173,<root>.material.scene_name[0],01 - Default
+173,<root>.scene_name[0],Line026
+173,<root>.scene_name[1],scene/三人桌/Line026
+173,<root>.scene_name[2],layer/0
+173,<root>.user_attributes,
+174,<root>,Line027@node_740
+174,<root>.bake_subdiv_filepath,
+174,<root>.geometry,Mesh_5046691834524415197
+174,<root>.material,a1___Default@mtl__26
+174,<root>.material.brdf,a1___Default@mtl_brdf__27
+174,<root>.material.brdf.lpe_label,01 - Default
+174,<root>.material.scene_name[0],01 - Default
+174,<root>.scene_name[0],Line027
+174,<root>.scene_name[1],scene/三人桌/Line027
+174,<root>.scene_name[2],layer/0
+174,<root>.user_attributes,
+175,<root>,Line028@node_741
+175,<root>.bake_subdiv_filepath,
+175,<root>.geometry,Mesh_5046691834524415197
+175,<root>.material,a1___Default@mtl__26
+175,<root>.material.brdf,a1___Default@mtl_brdf__27
+175,<root>.material.brdf.lpe_label,01 - Default
+175,<root>.material.scene_name[0],01 - Default
+175,<root>.scene_name[0],Line028
+175,<root>.scene_name[1],scene/三人桌/Line028
+175,<root>.scene_name[2],layer/0
+175,<root>.user_attributes,
+176,<root>,Line025@node_742
+176,<root>.bake_subdiv_filepath,
+176,<root>.geometry,Mesh_5046691834524415197
+176,<root>.material,a1___Default@mtl__26
+176,<root>.material.brdf,a1___Default@mtl_brdf__27
+176,<root>.material.brdf.lpe_label,01 - Default
+176,<root>.material.scene_name[0],01 - Default
+176,<root>.scene_name[0],Line025
+176,<root>.scene_name[1],scene/三人桌/Line025
+176,<root>.scene_name[2],layer/0
+176,<root>.user_attributes,
+177,<root>,Rectangle012@node_743
+177,<root>.bake_subdiv_filepath,
+177,<root>.geometry,Mesh_15435404001173546342
+177,<root>.material,a2___Default@mtl__89
+177,<root>.material.brdf,a2___Default@mtl_brdf__90
+177,<root>.material.brdf.diffuse,a2___Default@mtl_brdf__90_diffuse_combine
+177,<root>.material.brdf.diffuse.texture,贴图__1@tex_22
+177,<root>.material.brdf.diffuse.texture.bitmap,bitmapBuffer_15_gsRGB
+177,<root>.material.brdf.diffuse.texture.bitmap.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/02/二级雪花白.jpg
+177,<root>.material.brdf.diffuse.texture.bitmap.rgb_color_space,raw
+177,<root>.material.brdf.diffuse.texture.uvwgen,贴图__1@tex_22_uvwgen
+177,<root>.material.brdf.lpe_label,02 - Default
+177,<root>.material.scene_name[0],02 - Default
+177,<root>.scene_name[0],Rectangle012
+177,<root>.scene_name[1],scene/三人桌/Rectangle012
+177,<root>.scene_name[2],layer/0
+177,<root>.user_attributes,
+178,<root>,Rectangle011@node_744
+178,<root>.bake_subdiv_filepath,
+178,<root>.geometry,Mesh_11185525088853241617
+178,<root>.material,a1___Default@mtl__26
+178,<root>.material.brdf,a1___Default@mtl_brdf__27
+178,<root>.material.brdf.lpe_label,01 - Default
+178,<root>.material.scene_name[0],01 - Default
+178,<root>.scene_name[0],Rectangle011
+178,<root>.scene_name[1],scene/三人桌/Rectangle011
+178,<root>.scene_name[2],layer/0
+178,<root>.user_attributes,
+179,<root>,Rectangle034@node_758
+179,<root>.bake_subdiv_filepath,
+179,<root>.geometry,Mesh_11906448087305537324
+179,<root>.material,Material__91@mtl__93
+179,<root>.material.brdf,Material__91@mtl_brdf__94
+179,<root>.material.brdf.lpe_label,Material #91
+179,<root>.material.scene_name[0],Material #91
+179,<root>.scene_name[0],Rectangle034
+179,<root>.scene_name[1],scene/心形置物架/Rectangle034
+179,<root>.scene_name[2],layer/0
+179,<root>.user_attributes,
+180,<root>,心形置物架@node_757
+180,<root>.bake_subdiv_filepath,
+180,<root>.scene_name[0],心形置物架
+180,<root>.scene_name[1],scene/心形置物架
+180,<root>.scene_name[2],layer/0
+180,<root>.user_attributes,
+181,<root>,Rectangle036@node_759
+181,<root>.bake_subdiv_filepath,
+181,<root>.geometry,Mesh_5118140511067600743
+181,<root>.material,Material__91@mtl__93
+181,<root>.material.brdf,Material__91@mtl_brdf__94
+181,<root>.material.brdf.lpe_label,Material #91
+181,<root>.material.scene_name[0],Material #91
+181,<root>.scene_name[0],Rectangle036
+181,<root>.scene_name[1],scene/心形置物架/Rectangle036
+181,<root>.scene_name[2],layer/0
+181,<root>.user_attributes,
+182,<root>,Rectangle039@node_760
+182,<root>.bake_subdiv_filepath,
+182,<root>.geometry,Mesh_6546936525223178236
+182,<root>.material,Material__91@mtl__93
+182,<root>.material.brdf,Material__91@mtl_brdf__94
+182,<root>.material.brdf.lpe_label,Material #91
+182,<root>.material.scene_name[0],Material #91
+182,<root>.scene_name[0],Rectangle039
+182,<root>.scene_name[1],scene/心形置物架/Rectangle039
+182,<root>.scene_name[2],layer/0
+182,<root>.user_attributes,
+183,<root>,VRayProxy_Circle596@node_761
+183,<root>.bake_subdiv_filepath,
+183,<root>.geometry,mesh_97
+183,<root>.geometry.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/网格导出/Circle591.vrmesh
+183,<root>.geometry.material_assignments_file,
+183,<root>.geometry.object_path,
+183,<root>.geometry.reference_normal_channel,
+183,<root>.geometry.reference_vertex_channel,
+183,<root>.geometry.velocity_color_set,
+183,<root>.material,Material__291@mtl__98
+183,<root>.material.scene_name[0],Material #291
+183,<root>.scene_name[0],VRayProxy_Circle596
+183,<root>.scene_name[1],scene/心形置物架/VRayProxy_Circle596
+183,<root>.scene_name[2],layer/0
+183,<root>.user_attributes,MapChannel:0=vray_max_channel_0;MapChannel:1=vray_max_channel_1;
+184,<root>,VRayProxy_Circle595@node_762
+184,<root>.bake_subdiv_filepath,
+184,<root>.geometry,mesh_111
+184,<root>.geometry.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/网格导出/Circle595.vrmesh
+184,<root>.geometry.material_assignments_file,
+184,<root>.geometry.object_path,
+184,<root>.geometry.reference_normal_channel,
+184,<root>.geometry.reference_vertex_channel,
+184,<root>.geometry.velocity_color_set,
+184,<root>.material,Material__383@mtl__112
+184,<root>.material.scene_name[0],Material #383
+184,<root>.scene_name[0],VRayProxy_Circle595
+184,<root>.scene_name[1],scene/心形置物架/VRayProxy_Circle595
+184,<root>.scene_name[2],layer/0
+184,<root>.user_attributes,MapChannel:0=vray_max_channel_0;MapChannel:1=vray_max_channel_1;
+185,<root>,VRayProxy_Circle597@node_763
+185,<root>.bake_subdiv_filepath,
+185,<root>.geometry,mesh_111
+185,<root>.geometry.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/网格导出/Circle595.vrmesh
+185,<root>.geometry.material_assignments_file,
+185,<root>.geometry.object_path,
+185,<root>.geometry.reference_normal_channel,
+185,<root>.geometry.reference_vertex_channel,
+185,<root>.geometry.velocity_color_set,
+185,<root>.material,Material__383@mtl__112
+185,<root>.material.scene_name[0],Material #383
+185,<root>.scene_name[0],VRayProxy_Circle597
+185,<root>.scene_name[1],scene/心形置物架/VRayProxy_Circle597
+185,<root>.scene_name[2],layer/0
+185,<root>.user_attributes,MapChannel:0=vray_max_channel_0;MapChannel:1=vray_max_channel_1;
+186,<root>,VRayProxy_Circle591@node_764
+186,<root>.bake_subdiv_filepath,
+186,<root>.geometry,mesh_97
+186,<root>.geometry.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/网格导出/Circle591.vrmesh
+186,<root>.geometry.material_assignments_file,
+186,<root>.geometry.object_path,
+186,<root>.geometry.reference_normal_channel,
+186,<root>.geometry.reference_vertex_channel,
+186,<root>.geometry.velocity_color_set,
+186,<root>.material,Material__291@mtl__98
+186,<root>.material.scene_name[0],Material #291
+186,<root>.scene_name[0],VRayProxy_Circle591
+186,<root>.scene_name[1],scene/心形置物架/VRayProxy_Circle591
+186,<root>.scene_name[2],layer/0
+186,<root>.user_attributes,MapChannel:0=vray_max_channel_0;MapChannel:1=vray_max_channel_1;
+187,<root>,Rectangle040@node_765
+187,<root>.bake_subdiv_filepath,
+187,<root>.geometry,Mesh_5118140511067600743
+187,<root>.material,Material__91@mtl__93
+187,<root>.material.brdf,Material__91@mtl_brdf__94
+187,<root>.material.brdf.lpe_label,Material #91
+187,<root>.material.scene_name[0],Material #91
+187,<root>.scene_name[0],Rectangle040
+187,<root>.scene_name[1],scene/心形置物架/Rectangle040
+187,<root>.scene_name[2],layer/0
+187,<root>.user_attributes,
+188,<root>,Line007@node_766
+188,<root>.bake_subdiv_filepath,
+188,<root>.geometry,Mesh_16049758075221485062
+188,<root>.material,Material__91@mtl__93
+188,<root>.material.brdf,Material__91@mtl_brdf__94
+188,<root>.material.brdf.lpe_label,Material #91
+188,<root>.material.scene_name[0],Material #91
+188,<root>.scene_name[0],Line007
+188,<root>.scene_name[1],scene/心形置物架/Line007
+188,<root>.scene_name[2],layer/0
+188,<root>.user_attributes,
+189,<root>,VRayProxy_Circle598@node_767
+189,<root>.bake_subdiv_filepath,
+189,<root>.geometry,mesh_97
+189,<root>.geometry.file,/home/bishal/ml-hypersim/examples/01_marketplace_dataset/scenes/ai_001_001/_asset/网格导出/Circle591.vrmesh
+189,<root>.geometry.material_assignments_file,
+189,<root>.geometry.object_path,
+189,<root>.geometry.reference_normal_channel,
+189,<root>.geometry.reference_vertex_channel,
+189,<root>.geometry.velocity_color_set,
+189,<root>.material,Material__291@mtl__98
+189,<root>.material.scene_name[0],Material #291
+189,<root>.scene_name[0],VRayProxy_Circle598
+189,<root>.scene_name[1],scene/心形置物架/VRayProxy_Circle598
+189,<root>.scene_name[2],layer/0
+189,<root>.user_attributes,MapChannel:0=vray_max_channel_0;MapChannel:1=vray_max_channel_1;
