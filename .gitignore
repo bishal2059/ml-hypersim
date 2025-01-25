@@ -16,3 +16,9 @@ contrib/mikeroberts3000/python/libvrayopenimageio.dylib
 contrib/mikeroberts3000/python/libvrayosl.dylib
 contrib/mikeroberts3000/python/libVRaySDKLibrary.dylib
 contrib/mikeroberts3000/python/plugins
+examples/00_empty_scene/data
+examples/00_empty_scene/camera*
+examples/00_empty_scene/empty_cam.vrscene
+examples/00_empty_scene/metadata_camera.csv
+examples/00_empty_scene/empty_cam_quads_linear.vrscene
+examples/00_empty_scene/empty_cam_quads.vrscene
