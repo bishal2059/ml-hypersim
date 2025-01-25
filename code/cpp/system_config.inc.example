@@ -1,6 +1,6 @@
-APPROX_MVBB_INCLUDE_DIR:=/home/bishal/Downloads/ApproxMVBB/BUILD/install/include
-APPROX_MVBB_LIB_DIR:=/home/bishal/Downloads/ApproxMVBB/BUILD/install/lib
-#APPROX_MVBB_EXTRA_CPP_FLAGS:=-rpath /home/bishal/Downloads/ApproxMVBB/BUILD/install/lib
+APPROX_MVBB_INCLUDE_DIR:=/home/bishal/ApproxMVBB/BUILD/install/include
+APPROX_MVBB_LIB_DIR:=/home/bishal/ApproxMVBB/BUILD/install/lib
+#APPROX_MVBB_EXTRA_CPP_FLAGS:=-rpath /home/bishal/ApproxMVBB/BUILD/install/lib
 
 ARGS_INCLUDE_DIR:=/usr/local/include/
 
@@ -21,14 +21,14 @@ HDF5_LIB_DIR:=/usr/local/lib
 ICON_FONT_CPP_HEADERS_INCLUDE_DIR:=../../third_party/IconFontCppHeaders
 
 # required when building the Hypersim Scene Annotation Tool
-LIBIGL_INCLUDE_DIR:=/home/bishal/Downloads/libigl/include
-LIBIGL_EXTERNAL_DIR:=/home/bishal/Downloads/libigl/external
-LIBIGL_LIB_DIR:=/home/bishal/Downloads/libigl/build
+LIBIGL_INCLUDE_DIR:=/home/bishal/libigl/include
+LIBIGL_EXTERNAL_DIR:=/home/bishal//libigl/external
+LIBIGL_LIB_DIR:=/home/bishal/libigl/build
 LIBIGL_EXTRA_CPP_FLAGS:=-framework Cocoa -framework CoreVideo -framework IOKit
 
-OCTOMAP_INCLUDE_DIR:=/home/bishal/Downloads/octomap/octomap/include
-OCTOMAP_LIB_DIR:=/home/bishal/Downloads/octomap/lib
-#OCTOMAP_EXTRA_CPP_FLAGS:=-rpath /home/bishal/Downloads/octomap/lib
+OCTOMAP_INCLUDE_DIR:=/home/bishal/octomap/octomap/include
+OCTOMAP_LIB_DIR:=/home/bishal/octomap/lib
+#OCTOMAP_EXTRA_CPP_FLAGS:=-rpath /home/bishal/octomap/lib
 
 OPENEXR_INCLUDE_DIR:=/usr/local/include/
 OPENEXR_LIB_DIR:=/usr/local/lib

@@ -124,7 +124,7 @@ def generate_plugins_for_quad(quad_id, params):
     brdf_vray_mtl.reflect_glossiness           = 1
     brdf_vray_mtl.hilight_glossiness_lock      = 1
     brdf_vray_mtl.gtr_gamma                    = 2
-    brdf_vray_mtl.gtr_oldGamma                 = 0
+    # brdf_vray_mtl.gtr_oldGamma                 = 0
     brdf_vray_mtl.fresnel                      = 1
     brdf_vray_mtl.fresnel_ior                  = 1.6
     brdf_vray_mtl.fresnel_ior_lock             = 1

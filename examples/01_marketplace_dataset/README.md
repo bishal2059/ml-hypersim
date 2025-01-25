@@ -23,10 +23,10 @@ python ../../code/python/tools/dataset_initialize_scenes.py --dataset_dir . --do
 # export scene data from native asset file into vrscene file (not provided)
 
 # replace the Windows path in our exported scene with a valid macOS path, so we can execute the rest of the tutorial example on macOS
-python ../../code/python/tools/modify_vrscene_replace_paths.py --in_file scenes/ai_001_001/_asset_export/scene.vrscene --out_file scenes/ai_001_001/_asset_export/scene.vrscene --replace_old_path C:\\Users\\mike_roberts2\\code\\github\\ml-hypersim\\examples\\01_marketplace_dataset --replace_new_path /Users/mike/code/github/ml-hypersim/examples/01_marketplace_dataset
+python ../../code/python/tools/modify_vrscene_replace_paths.py --in_file scenes/ai_001_001/_asset_export/scene.vrscene --out_file scenes/ai_001_001/_asset_export/scene.vrscene --replace_old_path C:\\Users\\mike_roberts2\\code\\github\\ml-hypersim\\examples\\01_marketplace_dataset --replace_new_path /home/bishal/ml-hypersim/examples/01_marketplace_dataset
 
 # correct bad default export options
-python ../../code/python/tools/dataset_modify_vrscenes_normalize.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /Users/mike/code/github/ml-hypersim/examples/01_marketplace_dataset
+python ../../code/python/tools/dataset_modify_vrscenes_normalize.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /home/bishal/ml-hypersim/examples/01_marketplace_dataset
 
 # render intermediate image
 python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --render_pass none --save_image
@@ -55,34 +55,34 @@ python ../../code/python/tools/visualize_octomap.py --mesh_dir scenes/ai_001_001
 python ../../code/python/tools/dataset_generate_camera_trajectories.py --dataset_dir .
 
 # visualize the camera trajectory
-python ../../code/python/tools/visualize_camera_trajectory.py --mesh_dir scenes/ai_001_001/_detail/mesh --camera_trajectory_dir scenes/ai_001_001/_detail/cam_00 --cameras_scale_factor 10.0
+python ../../code/python/tools/visualize_camera_trajectory.py --mesh_dir scenes/ai_001_001/_detail/mesh --camera_trajectory_dir scenes/ai_001_001/_detail/cam_Camera001 --cameras_scale_factor 10.0
 ```
 
 ```
 # modify vrscene to render camera trajectories with appropriate ground truth layers
-python ../../code/python/tools/dataset_modify_vrscenes_for_hypersim_rendering.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /Users/mike/code/github/ml-hypersim/examples/01_marketplace_dataset
+python ../../code/python/tools/dataset_modify_vrscenes_for_hypersim_rendering.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /home/bishal/ml-hypersim/examples/01_marketplace_dataset
 ```
 
 ```
 # rendering
 
 # render geometry pass locally
-python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_00 --render_pass geometry --save_image
+python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_Camera001 --render_pass geometry --save_image
 
 # generate HDF5 images for downstream analysis, and JPG images for visualization
-python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00 --render_pass geometry
+python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001 --render_pass geometry
 
 # render pre pass locally
-python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_00 --render_pass pre --save_image --save_gi_cache_files
+python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_Camera001 --render_pass pre --save_image --save_gi_cache_files
 
 # merge per-image lighting data into per-scene lighting data
-python ../../code/python/tools/dataset_generate_merged_gi_cache_files.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00
+python ../../code/python/tools/dataset_generate_merged_gi_cache_files.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001
 
 # render final pass locally
-python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_00 --render_pass final --save_image
+python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_Camera001 --render_pass final --save_image
 
 # generate HDF5 images for downstream analysis, and JPG images for visualization
-python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00 --render_pass final
+python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001 --render_pass final
 ```
 
 &nbsp;
@@ -173,7 +173,7 @@ Exported vrscene files typically contain absolute Windows paths. These paths wil
 _You must substitute your own `replace_old_path` and `replace_new_path` when executing this tool and it must be an absolute path._
 
 ```
-python ../../code/python/tools/modify_vrscene_replace_paths.py --in_file scenes/ai_001_001/_asset_export/scene.vrscene --out_file scenes/ai_001_001/_asset_export/scene.vrscene --replace_old_path C:\\Users\\mike_roberts2\\code\\github\\ml-hypersim\\examples\\01_marketplace_dataset --replace_new_path /Users/mike/code/github/ml-hypersim/examples/01_marketplace_dataset
+python ../../code/python/tools/modify_vrscene_replace_paths.py --in_file scenes/ai_001_001/_asset_export/scene.vrscene --out_file scenes/ai_001_001/_asset_export/scene.vrscene --replace_old_path C:\\Users\\mike_roberts2\\code\\github\\ml-hypersim\\examples\\01_marketplace_dataset --replace_new_path /home/bishal/ml-hypersim/examples/01_marketplace_dataset
 ```
 
 The command-line parameters to this tool are as follows.
@@ -195,7 +195,7 @@ The command-line tool below will call the appropriate normalization script for e
 _You must substitute your own `dataset_dir_when_rendering` when executing this tool and it must be an absolute path._
 
 ```
-python ../../code/python/tools/dataset_modify_vrscenes_normalize.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /Users/mike/code/github/ml-hypersim/examples/01_marketplace_dataset
+python ../../code/python/tools/dataset_modify_vrscenes_normalize.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /home/bishal/ml-hypersim/examples/01_marketplace_dataset
 ```
 
 The command-line parameters to this tool are as follows.
@@ -315,7 +315,7 @@ The command-line parameters to this tool are as follows.
 The `dataset_generate_camera_trajectories.py` tool saves debug preview images (colored according to triangle ID) for the camera trajectory in `my_dataset/scenes/my_scene_N/_detail/cam_X/preview`. We can also visually inspect the camera trajectories generated in this step using our `visualize_camera_trajectory.py` tool.
 
 ```
-python ../../code/python/tools/visualize_camera_trajectory.py --mesh_dir scenes/ai_001_001/_detail/mesh --camera_trajectory_dir scenes/ai_001_001/_detail/cam_00  --cameras_scale_factor 10.0
+python ../../code/python/tools/visualize_camera_trajectory.py --mesh_dir scenes/ai_001_001/_detail/mesh --camera_trajectory_dir scenes/ai_001_001/_detail/cam_Camera001  --cameras_scale_factor 10.0
 ```
 
 &nbsp;
@@ -326,7 +326,7 @@ Our next step is to add our generated camera trajectory to the vrscene, and to p
 _You must substitute your own `dataset_dir_when_rendering` when executing this tool and it must be an absolute path._
 
 ```
-python ../../code/python/tools/dataset_modify_vrscenes_for_hypersim_rendering.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /Users/mike/code/github/ml-hypersim/examples/01_marketplace_dataset
+python ../../code/python/tools/dataset_modify_vrscenes_for_hypersim_rendering.py --dataset_dir . --platform_when_rendering mac --dataset_dir_when_rendering /home/bishal/ml-hypersim/examples/01_marketplace_dataset
 ```
 
 The command-line parameters to this tool are as follows.
@@ -387,22 +387,22 @@ Finally, we can render images from our automatically generated camera trajectory
 # rendering
 
 # render geometry pass locally
-python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_00 --render_pass geometry --save_image
+python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_Camera001 --render_pass geometry --save_image
 
 # generate HDF5 images for downstream analysis, and JPG images for visualization
-python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00 --render_pass geometry
+python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001 --render_pass geometry
 
 # render pre pass locally
-python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_00 --render_pass pre --save_image --save_gi_cache_files
+python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_Camera001 --render_pass pre --save_image --save_gi_cache_files
 
 # merge per-image lighting data into per-scene lighting data
-python ../../code/python/tools/dataset_generate_merged_gi_cache_files.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00
+python ../../code/python/tools/dataset_generate_merged_gi_cache_files.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001
 
 # render final pass locally
-python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_00 --render_pass final --save_image
+python ../../code/python/tools/dataset_render_scene.py --dataset_dir . --scene_name ai_001_001 --camera_name cam_Camera001 --render_pass final --save_image
 
 # generate HDF5 images for downstream analysis, and JPG images for visualization
-python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00 --render_pass final
+python ../../code/python/tools/dataset_generate_hdf5_from_vrimg.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001 --render_pass final
 ```
 
 The command-line parameters to `dataset_render_scene.py` are as follows.
@@ -442,13 +442,13 @@ After the rendering output has been generated, we can perform several useful pos
 
 ```
 # generate tone-mapped images for visualization
-python ../../code/python/tools/dataset_generate_images_tonemap.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00
+python ../../code/python/tools/dataset_generate_images_tonemap.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001
 
 # generate semantic segmentation images
-python ../../code/python/tools/dataset_generate_images_semantic_segmentation.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00
+python ../../code/python/tools/dataset_generate_images_semantic_segmentation.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001
 
 # generate animations
-python ../../code/python/tools/dataset_generate_animations.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00 --img_name tonemap
+python ../../code/python/tools/dataset_generate_animations.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001 --img_name tonemap
 ```
 
 The command-line parameters to these tools are as follows.
@@ -497,7 +497,7 @@ python ../../code/python/tools/visualize_semantic_segmentation.py --mesh_dir sce
 We can also generate an image of our bounding boxes overlaid on a rendered image using our `scene_generate_images_bounding_box.py` tool.
 
 ```
-python ../../code/python/tools/scene_generate_images_bounding_box.py --scene_dir scenes/ai_001_001 --camera_name cam_00 --bounding_box_type object_aligned_2d --frame_id 0 --num_pixels_per_fragment 1
+python ../../code/python/tools/scene_generate_images_bounding_box.py --scene_dir scenes/ai_001_001 --camera_name cam_Camera001 --bounding_box_type object_aligned_2d --frame_id 0 --num_pixels_per_fragment 1
 ```
 
 The command-line parameters to this tool is as follows.
@@ -520,7 +520,7 @@ The `scene_generate_images_bounding_box.py` tool generates images in `my_dataset
 Rather than rendering images locally, we can submit rendering jobs to a cloud rendering service. We don't provide code for this step, but we do include an example submission script that generates text files containing useful metadata about each rendering job, and could be used for cloud rendering with minor modifications.
 
 ```
-python ../../code/python/tools/dataset_submit_rendering_jobs.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_00 --render_pass final
+python ../../code/python/tools/dataset_submit_rendering_jobs.py --dataset_dir . --scene_names ai_001_001 --camera_names cam_Camera001 --render_pass final
 ```
 
 The command-line parameters to `dataset_submit_jobs.py` are as follows.
