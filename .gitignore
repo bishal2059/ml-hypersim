@@ -22,3 +22,7 @@ examples/00_empty_scene/empty_cam.vrscene
 examples/00_empty_scene/metadata_camera.csv
 examples/00_empty_scene/empty_cam_quads_linear.vrscene
 examples/00_empty_scene/empty_cam_quads.vrscene
+examples/01_marketplace_dataset/scenes/ai_001_001/_asset
+examples/01_marketplace_dataset/scenes/ai_001_001/_asset_export
+examples/01_marketplace_dataset/scenes/ai_001_001/_detail/mesh
+examples/01_marketplace_dataset/scenes/ai_001_001/images/scene_cam_00*
