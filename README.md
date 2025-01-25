@@ -255,8 +255,8 @@ You need to rename `ml-hypersim/code/python/_system_config.py.example -> _system
 Make sure the `bin` directory from V-Ray Standalone is in your `PATH` environment variable. Also make sure that the `bin` directory from the V-Ray AppSDK is in your `DYLD_LIBRARY_PATH` environment variable. For example, I add the following to my `~/.bash_profile` file.
 
 ```
-export PATH=$PATH:/Applications/ChaosGroup/V-Ray/Standalone_for_mavericks_x64/bin
-export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:/Applications/ChaosGroup/V-Ray/AppSDK/bin
+export PATH=$PATH:/usr/Chaos/V-Ray/Standalone_for_rhel8/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/Chaos/V-Ray/AppSDK/bin
 ```
 
 Manually copy `vray.so` from the AppSDK directory so it is visible to your Python distribution.
@@ -264,12 +264,12 @@ Manually copy `vray.so` from the AppSDK directory so it is visible to your Pytho
 Manually copy the following files and subdirectories from the AppSDK `bin` directory to the `ml-hypersim/code/python/tools` directory. For example,
 
 ```
-cp /Applications/ChaosGroup/V-Ray/AppSDK/bin/libcgauth.dylib          /Users/mike/code/github/ml-hypersim/code/python/tools
-cp /Applications/ChaosGroup/V-Ray/AppSDK/bin/libvray.dylib            /Users/mike/code/github/ml-hypersim/code/python/tools
-cp /Applications/ChaosGroup/V-Ray/AppSDK/bin/libvrayopenimageio.dylib /Users/mike/code/github/ml-hypersim/code/python/tools
-cp /Applications/ChaosGroup/V-Ray/AppSDK/bin/libvrayosl.dylib         /Users/mike/code/github/ml-hypersim/code/python/tools
-cp /Applications/ChaosGroup/V-Ray/AppSDK/bin/libVRaySDKLibrary.dylib  /Users/mike/code/github/ml-hypersim/code/python/tools
-cp -a /Applications/ChaosGroup/V-Ray/AppSDK/bin/plugins               /Users/mike/code/github/ml-hypersim/code/python/tools
+cp /usr/Chaos/V-Ray/AppSDK/bin/libcgauth.so          /home/bishal/ml-hypersim/code/python/tools
+cp /usr/Chaos/V-Ray/AppSDK/bin/libvray.so            /home/bishal/ml-hypersim/code/python/tools
+cp /usr/Chaos/V-Ray/AppSDK/bin/libvrayopenimageio.so /home/bishal/ml-hypersim/code/python/tools
+cp /usr/Chaos/V-Ray/AppSDK/bin/libvrayosl.so         /home/bishal/ml-hypersim/code/python/tools
+cp /usr/Chaos/V-Ray/AppSDK/bin/libVRaySDKLibrary.so  /home/bishal/ml-hypersim/code/python/tools
+cp -a /usr/Chaos/V-Ray/AppSDK/bin/plugins               /home/bishal/ml-hypersim/code/python/tools
 ```
 
 You can verify that the V-Ray AppSDK is installed correctly by executing the following command-line tool.

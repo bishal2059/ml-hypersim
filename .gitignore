@@ -10,11 +10,11 @@ code/python/tools/libVRaySDKLibrary.so
 code/python/tools/plugins
 contrib/mikeroberts3000/jupyter/.ipynb_checkpoints
 contrib/mikeroberts3000/jupyter/_tmp
-contrib/mikeroberts3000/python/libcgauth.dylib
-contrib/mikeroberts3000/python/libvray.dylib
-contrib/mikeroberts3000/python/libvrayopenimageio.dylib
-contrib/mikeroberts3000/python/libvrayosl.dylib
-contrib/mikeroberts3000/python/libVRaySDKLibrary.dylib
+contrib/mikeroberts3000/python/libcgauth.so
+contrib/mikeroberts3000/python/libvray.so
+contrib/mikeroberts3000/python/libvrayopenimageio.so
+contrib/mikeroberts3000/python/libvrayosl.so
+contrib/mikeroberts3000/python/libVRaySDKLibrary.so
 contrib/mikeroberts3000/python/plugins
 examples/00_empty_scene/data
 examples/00_empty_scene/camera*
@@ -30,5 +30,6 @@ examples/01_marketplace_dataset/scenes/ai_001_001/images/scene_cam_C*
 examples/01_marketplace_dataset/scenes/ai_001_001/_tmp
 examples/01_marketplace_dataset/scenes/ai_001_001/_detail/octomap
 examples/01_marketplace_dataset/scenes/ai_001_001/_detail/scene_shared
+examples/01_marketplace_dataset/scenes/ai_001_001/_detail/scene_cam_Camera001_shared
 examples/01_marketplace_dataset/scenes/ai_001_001/vrscenes
 examples/01_marketplace_dataset/scenes/ai_001_001/_detail/cam_Camera001
